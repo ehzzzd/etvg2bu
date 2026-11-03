@@ -1,5 +1,0 @@
-requests>=2.31
-# needed only when the AWS WAF challenge solver kicks in:
-curl_cffi>=0.7
-cryptography>=42
-pyscrypt>=0.1
