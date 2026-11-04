@@ -29,7 +29,8 @@ jobs:
           PROVIDER: ${{ secrets.PROVIDER || 'X341764498' }}
           REGION: ${{ secrets.REGION || '901' }}
           DAYS: "3"
-          TZ_NAME: America/Puerto_Rico
+          TZ_NAME: America/Puerto_Rico      # salida: hora local del espectador
+          SITE_TZ: America/New_York          # el sitio .com muestra Eastern Time
         run: python epg.py --output guide.xml --channels-output channels.xml
 
       - name: Compress guide
