@@ -75,7 +75,7 @@ def solve_waf_challenge(url, body):
         raise RuntimeError(f"could not solve AWS WAF challenge for {url}: {e}")
 
 
-def fetch(session, url, accept_json=False, retries=3):
+def fetch(session, url, accept_json=False, retries=5):
     """GET a URL with retries/backoff and AWS WAF handling. Raises on failure."""
     headers = {}
     if accept_json:
@@ -88,9 +88,15 @@ def fetch(session, url, accept_json=False, retries=3):
                 return r
             # AWS WAF challenge: 405 (or 202) with a challenge page
             if r.status_code in (202, 405) or "challenge.js" in r.text[:5000]:
-                token = solve_waf_challenge(url, r.text)
-                session.cookies.set("aws-waf-token", token, domain=".ontvtonight.com")
-                continue  # retry immediately with the fresh token
+                try:
+                    token = solve_waf_challenge(url, r.text)
+                    session.cookies.set("aws-waf-token", token, domain=".ontvtonight.com")
+                    continue  # retry immediately with the fresh token
+                except RuntimeError as e:
+                    last_err = e  # challenge is intermittent: fall through and retry anyway
+                    if attempt < retries:
+                        time.sleep(2 * attempt)
+                    continue
             last_err = RuntimeError(f"HTTP {r.status_code} for {url}")
         except requests.RequestException as e:
             last_err = e
@@ -198,8 +204,17 @@ def get_programs(session, channel, date_str, site_tz, out_tz):
     return programs
 
 
+WITH_OFFSET = True  # set by main() from --with-offset
+
+
 def xmltv_time(dt):
-    return dt.strftime("%Y%m%d%H%M%S %z")
+    # Emit local time; by default WITHOUT the numeric UTC offset so that
+    # players which mishandle the "-0400" suffix (showing times 4h early)
+    # still display the correct local Puerto Rico time. With --with-offset
+    # the strict XMLTV form "... -0400" is emitted instead.
+    if WITH_OFFSET:
+        return dt.strftime("%Y%m%d%H%M%S %z")
+    return dt.strftime("%Y%m%d%H%M%S")
 
 
 def esc(text):
@@ -258,7 +273,14 @@ def main():
     ap.add_argument("--workers", type=int, default=int(os.getenv("WORKERS", "6")))
     ap.add_argument("--delay", type=float, default=float(os.getenv("DELAY", "0.25")),
                     help="seconds to wait between requests")
+    ap.add_argument("--with-offset", action="store_true",
+                    default=os.getenv("WITH_OFFSET", "") == "1",
+                    help="emit strict XMLTV times with UTC offset (e.g. ... -0400). "
+                         "Default: local time without offset.")
     args = ap.parse_args()
+
+    global WITH_OFFSET
+    WITH_OFFSET = args.with_offset
 
     out_tz = ZoneInfo(args.tz)
     site_tz = ZoneInfo(args.site_tz)
