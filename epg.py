@@ -153,8 +153,13 @@ def clean(html_fragment):
     return WS_RE.sub(" ", text).strip()
 
 
-def get_programs(session, channel, date_str, tz):
-    """Fetch one channel's listings page for one date and return programs."""
+def get_programs(session, channel, date_str, site_tz, out_tz):
+    """Fetch one channel's listings page for one date and return programs.
+
+    The site renders times in the SITE timezone (US Eastern for the .com site,
+    even for Puerto Rico); they are converted to the viewer's timezone (out_tz)
+    so the EPG shows true local time.
+    """
     url = f"{channel['url']}?dt={date_str}"
     html = fetch(session, url).text
     programs = []
@@ -174,18 +179,23 @@ def get_programs(session, channel, date_str, tz):
         except ValueError:
             continue
         start = base_date + timedelta(days=day_offset, hours=t.hour, minutes=t.minute)
-        start = start.replace(tzinfo=tz)
+        start = start.replace(tzinfo=site_tz)
         if prev_start and start < prev_start:   # schedule wrapped past midnight
             day_offset += 1
             start = base_date + timedelta(days=day_offset, hours=t.hour, minutes=t.minute)
-            start = start.replace(tzinfo=tz)
+            start = start.replace(tzinfo=site_tz)
         prev_start = start
         programs.append({"title": title, "desc": desc, "start": start, "stop": None})
     # stop = next program's start; last one defaults to +1h
     for i, p in enumerate(programs):
         p["stop"] = programs[i + 1]["start"] if i + 1 < len(programs) else p["start"] + timedelta(hours=1)
     # drop zero/negative-length entries (duplicate time rows on the site)
-    return [p for p in programs if p["stop"] > p["start"]]
+    programs = [p for p in programs if p["stop"] > p["start"]]
+    # convert from site tz to the viewer's local tz
+    for p in programs:
+        p["start"] = p["start"].astimezone(out_tz)
+        p["stop"] = p["stop"].astimezone(out_tz)
+    return programs
 
 
 def xmltv_time(dt):
@@ -239,7 +249,10 @@ def main():
     ap.add_argument("--region", default=os.getenv("REGION", "901"))
     ap.add_argument("--days", type=int, default=int(os.getenv("DAYS", "3")))
     ap.add_argument("--tz", default=os.getenv("TZ_NAME", "America/Puerto_Rico"),
-                    help="IANA timezone of the listings (site shows local times)")
+                    help="IANA timezone of the EPG output (viewer's local time)")
+    ap.add_argument("--site-tz", default=os.getenv("SITE_TZ", "America/New_York"),
+                    help="IANA timezone in which the site renders its times "
+                         "(US site = America/New_York, even for Puerto Rico)")
     ap.add_argument("--output", default=os.getenv("OUT_GUIDE", "guide.xml"))
     ap.add_argument("--channels-output", default=os.getenv("OUT_CHANNELS", "channels.xml"))
     ap.add_argument("--workers", type=int, default=int(os.getenv("WORKERS", "6")))
@@ -247,8 +260,9 @@ def main():
                     help="seconds to wait between requests")
     args = ap.parse_args()
 
-    tz = ZoneInfo(args.tz)
-    today = datetime.now(tz).date()
+    out_tz = ZoneInfo(args.tz)
+    site_tz = ZoneInfo(args.site_tz)
+    today = datetime.now(out_tz).date()
     dates = [(today + timedelta(days=i)).strftime("%Y-%m-%d") for i in range(args.days)]
 
     session = make_session()
@@ -260,7 +274,7 @@ def main():
     tasks = [(ch, d) for ch in channels for d in dates]
     done = 0
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
-        futures = {pool.submit(get_programs, make_session(), ch, d, tz): (ch, d) for ch, d in tasks}
+        futures = {pool.submit(get_programs, make_session(), ch, d, site_tz, out_tz): (ch, d) for ch, d in tasks}
         for fut in as_completed(futures):
             ch, d = futures[fut]
             try:
