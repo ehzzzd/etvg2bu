@@ -58,6 +58,20 @@ def make_session():
 _waf_token = None  # cached aws-waf-token for this run
 
 
+def detect_egress_timezone():
+    """OnTVTonight renders schedule times in the requester's local timezone,
+    so detect ours via the egress IP. Falls back to America/New_York."""
+    try:
+        r = requests.get("https://ipinfo.io/json", timeout=10)
+        tz = r.json().get("timezone")
+        if tz:
+            ZoneInfo(tz)  # validate
+            return tz
+    except Exception as e:
+        print(f"  could not detect egress timezone ({e}); defaulting to America/New_York")
+    return "America/New_York"
+
+
 def solve_waf_challenge(url, body):
     """Compute an aws-waf-token from an AWS WAF challenge page (best effort)."""
     global _waf_token
@@ -204,14 +218,12 @@ def get_programs(session, channel, date_str, site_tz, out_tz):
     return programs
 
 
-WITH_OFFSET = True  # set by main() from --with-offset
+WITH_OFFSET = True  # strict XMLTV form "... -0400" by default; --no-offset to drop it
 
 
 def xmltv_time(dt):
-    # Emit local time; by default WITHOUT the numeric UTC offset so that
-    # players which mishandle the "-0400" suffix (showing times 4h early)
-    # still display the correct local Puerto Rico time. With --with-offset
-    # the strict XMLTV form "... -0400" is emitted instead.
+    # Strict XMLTV includes the UTC offset; players that ignore the offset
+    # treat the stamp as UTC and show times 4h early, so we emit "-0400".
     if WITH_OFFSET:
         return dt.strftime("%Y%m%d%H%M%S %z")
     return dt.strftime("%Y%m%d%H%M%S")
@@ -267,23 +279,27 @@ def main():
                     help="IANA timezone of the EPG output (viewer's local time)")
     ap.add_argument("--site-tz", default=os.getenv("SITE_TZ", "America/New_York"),
                     help="IANA timezone in which the site renders its times "
-                         "(US site = America/New_York, even for Puerto Rico)")
+                         "(US site = America/New_York). 'auto' = detect egress IP tz.")
     ap.add_argument("--output", default=os.getenv("OUT_GUIDE", "guide.xml"))
     ap.add_argument("--channels-output", default=os.getenv("OUT_CHANNELS", "channels.xml"))
     ap.add_argument("--workers", type=int, default=int(os.getenv("WORKERS", "6")))
     ap.add_argument("--delay", type=float, default=float(os.getenv("DELAY", "0.25")),
                     help="seconds to wait between requests")
-    ap.add_argument("--with-offset", action="store_true",
-                    default=os.getenv("WITH_OFFSET", "") == "1",
-                    help="emit strict XMLTV times with UTC offset (e.g. ... -0400). "
-                         "Default: local time without offset.")
+    ap.add_argument("--no-offset", action="store_true",
+                    default=os.getenv("NO_OFFSET", "") == "1",
+                    help="emit times WITHOUT the UTC offset (some players need this). "
+                         "Default: strict XMLTV with offset, e.g. ... -0400")
     args = ap.parse_args()
 
     global WITH_OFFSET
-    WITH_OFFSET = args.with_offset
+    WITH_OFFSET = not args.no_offset
 
     out_tz = ZoneInfo(args.tz)
-    site_tz = ZoneInfo(args.site_tz)
+    site_tz_name = args.site_tz
+    if site_tz_name == "auto":
+        site_tz_name = detect_egress_timezone()
+        print(f"Detected egress timezone (site renders times in it): {site_tz_name}")
+    site_tz = ZoneInfo(site_tz_name)
     today = datetime.now(out_tz).date()
     dates = [(today + timedelta(days=i)).strftime("%Y-%m-%d") for i in range(args.days)]
 
