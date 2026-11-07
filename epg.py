@@ -277,9 +277,11 @@ def main():
     ap.add_argument("--days", type=int, default=int(os.getenv("DAYS", "3")))
     ap.add_argument("--tz", default=os.getenv("TZ_NAME", "America/Puerto_Rico"),
                     help="IANA timezone of the EPG output (viewer's local time)")
-    ap.add_argument("--site-tz", default=os.getenv("SITE_TZ", "America/New_York"),
-                    help="IANA timezone in which the site renders its times "
-                         "(US site = America/New_York). 'auto' = detect egress IP tz.")
+    ap.add_argument("--site-tz", default=os.getenv("SITE_TZ", "America/Puerto_Rico"),
+                    help="IANA timezone in which the site renders the listings for this "
+                         "region. Region 901 (Puerto Rico) is served in AST "
+                         "(America/Puerto_Rico), i.e. already local PR time. "
+                         "Use America/New_York for US mainland regions. 'auto' = egress IP tz.")
     ap.add_argument("--output", default=os.getenv("OUT_GUIDE", "guide.xml"))
     ap.add_argument("--channels-output", default=os.getenv("OUT_CHANNELS", "channels.xml"))
     ap.add_argument("--workers", type=int, default=int(os.getenv("WORKERS", "6")))
