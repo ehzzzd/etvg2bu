@@ -30,7 +30,7 @@ jobs:
           REGION: ${{ secrets.REGION || '901' }}
           DAYS: "3"
           TZ_NAME: America/Puerto_Rico      # salida: hora local del espectador
-          SITE_TZ: America/New_York          # el sitio .com muestra Eastern Time
+          SITE_TZ: America/Puerto_Rico       # region 901 ya viene en hora local de PR (AST)
         run: python epg.py --output guide.xml --channels-output channels.xml
 
       - name: Compress guide
