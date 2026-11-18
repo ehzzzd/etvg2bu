@@ -395,7 +395,7 @@
   </programme>
   <programme start="20261117003000 -0400" stop="20261117013000 -0400" channel="ontvtonight-69042657-wkaq-telemundo-puerto-rico">
     <title lang="es">En casa con Telemundo</title>
-    <desc lang="es">11-16-2026 -2 - Season 2026, Episode 400</desc>
+    <desc lang="es">Frida Sofía lanza mensaje tajante - Season 2026, Episode 400</desc>
   </programme>
   <programme start="20261117013000 -0400" stop="20261117023000 -0400" channel="ontvtonight-69042657-wkaq-telemundo-puerto-rico">
     <title lang="es">Pasión de Gavilanes</title>
@@ -435,6 +435,7 @@
   </programme>
   <programme start="20261117180000 -0400" stop="20261117200000 -0400" channel="ontvtonight-69042657-wkaq-telemundo-puerto-rico">
     <title lang="es">Juego de Villanos</title>
+    <desc lang="es">Villanos en fuga</desc>
   </programme>
   <programme start="20261117200000 -0400" stop="20261117220000 -0400" channel="ontvtonight-69042657-wkaq-telemundo-puerto-rico">
     <title lang="es">Raymond y sus amigos</title>
@@ -2474,7 +2475,7 @@
     <title lang="es">En Familia Con Teleonce</title>
   </programme>
   <programme start="20261117123000 -0400" stop="20261117130000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
-    <title lang="es">Será anunciado</title>
+    <title lang="es">Aqui pa&amp;#039; Ti</title>
   </programme>
   <programme start="20261117130000 -0400" stop="20261117143000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
     <title lang="es">PR en vivo</title>
@@ -2495,13 +2496,13 @@
     <title lang="es">Jugando Pelota Dura</title>
   </programme>
   <programme start="20261117200000 -0400" stop="20261117210000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
-    <title lang="es">Boricuas con Talento</title>
+    <title lang="es">Puerto Rico: Sabor a Navidad</title>
   </programme>
   <programme start="20261117210000 -0400" stop="20261117220000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
     <title lang="es">Las noticias última edición</title>
   </programme>
   <programme start="20261117220000 -0400" stop="20261118000000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
-    <title lang="es">Película</title>
+    <title lang="es">Icon (2005)</title>
   </programme>
   <programme start="20261118000000 -0400" stop="20261118003000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
     <title lang="es">Programación pagada</title>
@@ -2546,7 +2547,7 @@
     <title lang="es">En Familia Con Teleonce</title>
   </programme>
   <programme start="20261118123000 -0400" stop="20261118130000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
-    <title lang="es">Será anunciado</title>
+    <title lang="es">Aqui pa&amp;#039; Ti</title>
   </programme>
   <programme start="20261118130000 -0400" stop="20261118143000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
     <title lang="es">PR en vivo</title>
@@ -2567,13 +2568,13 @@
     <title lang="es">Jugando Pelota Dura</title>
   </programme>
   <programme start="20261118200000 -0400" stop="20261118210000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
-    <title lang="es">Boricuas con Talento</title>
+    <title lang="es">Puerto Rico: Sabor a Navidad</title>
   </programme>
   <programme start="20261118210000 -0400" stop="20261118220000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
     <title lang="es">Las noticias última edición</title>
   </programme>
   <programme start="20261118220000 -0400" stop="20261119000000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
-    <title lang="es">Película</title>
+    <title lang="es">The Host</title>
   </programme>
   <programme start="20261119000000 -0400" stop="20261119003000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
     <title lang="es">Programación pagada</title>
@@ -2618,7 +2619,7 @@
     <title lang="es">En Familia Con Teleonce</title>
   </programme>
   <programme start="20261119123000 -0400" stop="20261119130000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
-    <title lang="es">Será anunciado</title>
+    <title lang="es">Aqui pa&amp;#039; Ti</title>
   </programme>
   <programme start="20261119130000 -0400" stop="20261119143000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
     <title lang="es">PR en vivo</title>
@@ -2630,22 +2631,19 @@
     <title lang="es">Las noticias ahora</title>
   </programme>
   <programme start="20261119170000 -0400" stop="20261119180000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
-    <title lang="es">Las noticias prime</title>
-  </programme>
-  <programme start="20261119180000 -0400" stop="20261119190000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
     <title lang="es">Ultima palabra</title>
   </programme>
-  <programme start="20261119190000 -0400" stop="20261119200000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
+  <programme start="20261119180000 -0400" stop="20261119190000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
     <title lang="es">Jugando Pelota Dura</title>
   </programme>
-  <programme start="20261119200000 -0400" stop="20261119210000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
-    <title lang="es">Boricuas con Talento</title>
+  <programme start="20261119190000 -0400" stop="20261119193000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
+    <title lang="es">Alfombra Amarilla Puerto Rico Worship Awards</title>
   </programme>
-  <programme start="20261119210000 -0400" stop="20261119220000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
-    <title lang="es">Las noticias última edición</title>
+  <programme start="20261119193000 -0400" stop="20261119220000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
+    <title lang="es">Puerto Rico Worship Awards</title>
   </programme>
   <programme start="20261119220000 -0400" stop="20261120000000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
-    <title lang="es">Película</title>
+    <title lang="es">Livin&amp;#039; for Love: The Natalie Cole Story (2000)</title>
   </programme>
   <programme start="20261120000000 -0400" stop="20261120003000 -0400" channel="ontvtonight-69042668-wlii-teleonce-56">
     <title lang="es">Programación pagada</title>
@@ -3208,7 +3206,7 @@
   </programme>
   <programme start="20261118003600 -0400" stop="20261118013500 -0400" channel="ontvtonight-69043310-wnbc">
     <title lang="es">Late Night With Seth Meyers</title>
-    <desc lang="es">Kate Berlant</desc>
+    <desc lang="es">Chris Hayes; Kate Berlant</desc>
   </programme>
   <programme start="20261118013500 -0400" stop="20261118013800 -0400" channel="ontvtonight-69043310-wnbc">
     <title lang="es">To Be Announced</title>
@@ -3313,7 +3311,7 @@
   </programme>
   <programme start="20261119003600 -0400" stop="20261119013500 -0400" channel="ontvtonight-69043310-wnbc">
     <title lang="es">Late Night With Seth Meyers</title>
-    <desc lang="es">Ariana Grande; Blake Griffin; Patti Harrison</desc>
+    <desc lang="es">Blake Griffin; Brittany Snow</desc>
   </programme>
   <programme start="20261119013500 -0400" stop="20261119013800 -0400" channel="ontvtonight-69043310-wnbc">
     <title lang="es">To Be Announced</title>
@@ -3531,6 +3529,7 @@
   </programme>
   <programme start="20261120233500 -0400" stop="20261121003500 -0400" channel="ontvtonight-69043310-wnbc">
     <title lang="es">The Tonight Show Starring Jimmy Fallon</title>
+    <desc lang="es">Dustin Hoffman; Skyler Gisondo; Donovan Mitchell; Tinashe - Season 13, Episode 134</desc>
   </programme>
   <programme start="20261117003500 -0400" stop="20261117013700 -0400" channel="ontvtonight-69033222-abc-5-puerto-rico-hdtv">
     <title lang="es">Jimmy Kimmel Live!</title>
@@ -3796,7 +3795,7 @@
   </programme>
   <programme start="20261119210000 -0400" stop="20261119220000 -0400" channel="ontvtonight-69033222-abc-5-puerto-rico-hdtv">
     <title lang="es">9-1-1</title>
-    <desc lang="es">Et Tu?</desc>
+    <desc lang="es">Et Tu? - Season 10, Episode 6</desc>
   </programme>
   <programme start="20261119220000 -0400" stop="20261119230000 -0400" channel="ontvtonight-69033222-abc-5-puerto-rico-hdtv">
     <title lang="es">9-1-1: Nashville</title>
@@ -3935,11 +3934,11 @@
   <programme start="20261118000000 -0400" stop="20261118003500 -0400" channel="ontvtonight-3561879181-wsee-puerto-rico">
     <title lang="es">On the Go PR</title>
   </programme>
-  <programme start="20261118003500 -0400" stop="20261118010500 -0400" channel="ontvtonight-3561879181-wsee-puerto-rico">
+  <programme start="20261118003500 -0400" stop="20261118013500 -0400" channel="ontvtonight-3561879181-wsee-puerto-rico">
     <title lang="es">Comics Unleashed with Byron Allen</title>
     <desc lang="es">Sharon Mahoney, Avi Liberman, Rodney Perry, and Carlos Santos</desc>
   </programme>
-  <programme start="20261118003500 -0400" stop="20261118013500 -0400" channel="ontvtonight-3561879181-wsee-puerto-rico">
+  <programme start="20261118003500 -0400" stop="20261118010500 -0400" channel="ontvtonight-3561879181-wsee-puerto-rico">
     <title lang="es">Comics Unleashed with Byron Allen</title>
     <desc lang="es">Sharon Mahoney, Avi Liberman, Rodney Perry, and Carlos Santos</desc>
   </programme>
@@ -4244,10 +4243,10 @@
   <programme start="20261118190500 -0400" stop="20261118220500 -0400" channel="ontvtonight-69046950-fx-east">
     <title lang="es">Captain America: The Winter Soldier (2014)</title>
   </programme>
-  <programme start="20261118220500 -0400" stop="20261118230500 -0400" channel="ontvtonight-69046950-fx-east">
+  <programme start="20261118220500 -0400" stop="20261119013500 -0400" channel="ontvtonight-69046950-fx-east">
     <title lang="es">Captain America: Civil War (2016)</title>
   </programme>
-  <programme start="20261118220500 -0400" stop="20261119013500 -0400" channel="ontvtonight-69046950-fx-east">
+  <programme start="20261118220500 -0400" stop="20261118230500 -0400" channel="ontvtonight-69046950-fx-east">
     <title lang="es">Captain America: Civil War (2016)</title>
   </programme>
   <programme start="20261119013500 -0400" stop="20261119033500 -0400" channel="ontvtonight-69046950-fx-east">
@@ -5885,10 +5884,10 @@
   <programme start="20261117230000 -0400" stop="20261118000000 -0400" channel="ontvtonight-376725991-wjpx-america-teve-puerto-rico">
     <title lang="es">Consultas con Cordero</title>
   </programme>
-  <programme start="20261118000000 -0400" stop="20261118010000 -0400" channel="ontvtonight-376725991-wjpx-america-teve-puerto-rico">
+  <programme start="20261118000000 -0400" stop="20261118080000 -0400" channel="ontvtonight-376725991-wjpx-america-teve-puerto-rico">
     <title lang="es">Fin de transmisión</title>
   </programme>
-  <programme start="20261118000000 -0400" stop="20261118080000 -0400" channel="ontvtonight-376725991-wjpx-america-teve-puerto-rico">
+  <programme start="20261118000000 -0400" stop="20261118010000 -0400" channel="ontvtonight-376725991-wjpx-america-teve-puerto-rico">
     <title lang="es">Fin de transmisión</title>
   </programme>
   <programme start="20261118080000 -0400" stop="20261118160000 -0400" channel="ontvtonight-376725991-wjpx-america-teve-puerto-rico">
@@ -5921,10 +5920,10 @@
   <programme start="20261118230000 -0400" stop="20261119000000 -0400" channel="ontvtonight-376725991-wjpx-america-teve-puerto-rico">
     <title lang="es">Consultas con Cordero</title>
   </programme>
-  <programme start="20261119000000 -0400" stop="20261119080000 -0400" channel="ontvtonight-376725991-wjpx-america-teve-puerto-rico">
+  <programme start="20261119000000 -0400" stop="20261119010000 -0400" channel="ontvtonight-376725991-wjpx-america-teve-puerto-rico">
     <title lang="es">Fin de transmisión</title>
   </programme>
-  <programme start="20261119000000 -0400" stop="20261119010000 -0400" channel="ontvtonight-376725991-wjpx-america-teve-puerto-rico">
+  <programme start="20261119000000 -0400" stop="20261119080000 -0400" channel="ontvtonight-376725991-wjpx-america-teve-puerto-rico">
     <title lang="es">Fin de transmisión</title>
   </programme>
   <programme start="20261119080000 -0400" stop="20261119160000 -0400" channel="ontvtonight-376725991-wjpx-america-teve-puerto-rico">
@@ -6312,11 +6311,11 @@
     <title lang="es">Castle</title>
     <desc lang="es">Recoil - Season 5, Episode 13</desc>
   </programme>
-  <programme start="20261118230300 -0400" stop="20261119000300 -0400" channel="ontvtonight-69047159-lifetime-television-east">
+  <programme start="20261118230300 -0400" stop="20261119000100 -0400" channel="ontvtonight-69047159-lifetime-television-east">
     <title lang="es">Castle</title>
     <desc lang="es">Reality Star Struck - Season 5, Episode 14</desc>
   </programme>
-  <programme start="20261118230300 -0400" stop="20261119000100 -0400" channel="ontvtonight-69047159-lifetime-television-east">
+  <programme start="20261118230300 -0400" stop="20261119000300 -0400" channel="ontvtonight-69047159-lifetime-television-east">
     <title lang="es">Castle</title>
     <desc lang="es">Reality Star Struck - Season 5, Episode 14</desc>
   </programme>
@@ -6424,11 +6423,11 @@
     <title lang="es">Rizzoli &amp;amp; Isles</title>
     <desc lang="es">Burning Down the House - Season 2, Episode 15</desc>
   </programme>
-  <programme start="20261119230300 -0400" stop="20261120000100 -0400" channel="ontvtonight-69047159-lifetime-television-east">
+  <programme start="20261119230300 -0400" stop="20261120000300 -0400" channel="ontvtonight-69047159-lifetime-television-east">
     <title lang="es">Rizzoli &amp;amp; Isles</title>
     <desc lang="es">What Doesn&amp;#039;t Kill You - Season 3, Episode 1</desc>
   </programme>
-  <programme start="20261119230300 -0400" stop="20261120000300 -0400" channel="ontvtonight-69047159-lifetime-television-east">
+  <programme start="20261119230300 -0400" stop="20261120000100 -0400" channel="ontvtonight-69047159-lifetime-television-east">
     <title lang="es">Rizzoli &amp;amp; Isles</title>
     <desc lang="es">What Doesn&amp;#039;t Kill You - Season 3, Episode 1</desc>
   </programme>
@@ -6810,10 +6809,10 @@
   <programme start="20261118200000 -0400" stop="20261118220000 -0400" channel="ontvtonight-69046853-lifetime-movies-east">
     <title lang="es">The Past Comes Knocking (2024)</title>
   </programme>
-  <programme start="20261118220000 -0400" stop="20261118230000 -0400" channel="ontvtonight-69046853-lifetime-movies-east">
+  <programme start="20261118220000 -0400" stop="20261119000100 -0400" channel="ontvtonight-69046853-lifetime-movies-east">
     <title lang="es">He&amp;#039;ll Never Find Me (2026)</title>
   </programme>
-  <programme start="20261118220000 -0400" stop="20261119000100 -0400" channel="ontvtonight-69046853-lifetime-movies-east">
+  <programme start="20261118220000 -0400" stop="20261118230000 -0400" channel="ontvtonight-69046853-lifetime-movies-east">
     <title lang="es">He&amp;#039;ll Never Find Me (2026)</title>
   </programme>
   <programme start="20261119000100 -0400" stop="20261119020100 -0400" channel="ontvtonight-69046853-lifetime-movies-east">
@@ -9415,8 +9414,8 @@
     <desc lang="es">Players Era 8 Semifinal</desc>
   </programme>
   <programme start="20261118183000 -0400" stop="20261118190000 -0400" channel="ontvtonight-69047050-espn">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">11-17-2026 -4</desc>
+    <title lang="es">College Basketball Live Scoreboard</title>
+    <desc lang="es">11-17-2026</desc>
   </programme>
   <programme start="20261118183000 -0400" stop="20261118190000 -0400" channel="ontvtonight-69047050-espn">
     <title lang="es">NBA Countdown</title>
@@ -9442,14 +9441,14 @@
   </programme>
   <programme start="20261118213500 -0400" stop="20261118223500 -0400" channel="ontvtonight-69047050-espn">
     <title lang="es">NBA Basketball</title>
-    <desc lang="es">Golden State Warriors at Dallas Mavericks</desc>
+    <desc lang="es">Boston Celtics at Denver Nuggets</desc>
   </programme>
   <programme start="20261118233000 -0400" stop="20261119003000 -0400" channel="ontvtonight-69047050-espn">
     <title lang="es">College Basketball Scoreboard</title>
   </programme>
   <programme start="20261119213500 -0400" stop="20261120000500 -0400" channel="ontvtonight-69047050-espn">
     <title lang="es">NBA Basketball</title>
-    <desc lang="es">Golden State Warriors at Dallas Mavericks</desc>
+    <desc lang="es">Boston Celtics at Denver Nuggets</desc>
   </programme>
   <programme start="20261120000500 -0400" stop="20261120010000 -0400" channel="ontvtonight-69047050-espn">
     <title lang="es">SportsCenter with Scott Van Pelt</title>
@@ -9469,7 +9468,7 @@
   </programme>
   <programme start="20261120040000 -0400" stop="20261120060000 -0400" channel="ontvtonight-69047050-espn">
     <title lang="es">NBA Basketball</title>
-    <desc lang="es">Golden State Warriors at Dallas Mavericks</desc>
+    <desc lang="es">Boston Celtics at Denver Nuggets</desc>
   </programme>
   <programme start="20261120060000 -0400" stop="20261120070000 -0400" channel="ontvtonight-69047050-espn">
     <title lang="es">SportsCenter with Scott Van Pelt</title>
@@ -10513,7 +10512,7 @@
   </programme>
   <programme start="20261120110000 -0400" stop="20261120120000 -0400" channel="ontvtonight-317907389-bein-sports-english">
     <title lang="es">Equestrian Competition</title>
-    <desc lang="es">FEI Western European League Show Lyon, France</desc>
+    <desc lang="es">Longines FEI Jumping World Cup</desc>
   </programme>
   <programme start="20261120120000 -0400" stop="20261120130000 -0400" channel="ontvtonight-317907389-bein-sports-english">
     <title lang="es">Auto Racing Highlights</title>
@@ -10860,10 +10859,10 @@
   <programme start="20261119220000 -0400" stop="20261119230000 -0400" channel="ontvtonight-376668214-wjpx-sonlife">
     <title lang="es">Message of the Cross</title>
   </programme>
-  <programme start="20261119230000 -0400" stop="20261120010000 -0400" channel="ontvtonight-376668214-wjpx-sonlife">
+  <programme start="20261119230000 -0400" stop="20261120000000 -0400" channel="ontvtonight-376668214-wjpx-sonlife">
     <title lang="es">Frances and Friends</title>
   </programme>
-  <programme start="20261119230000 -0400" stop="20261120000000 -0400" channel="ontvtonight-376668214-wjpx-sonlife">
+  <programme start="20261119230000 -0400" stop="20261120010000 -0400" channel="ontvtonight-376668214-wjpx-sonlife">
     <title lang="es">Frances and Friends</title>
   </programme>
   <programme start="20261120010000 -0400" stop="20261120030000 -0400" channel="ontvtonight-376668214-wjpx-sonlife">
@@ -10894,8 +10893,8 @@
     <title lang="es">November Share-A-Thon</title>
   </programme>
   <programme start="20261117000000 -0400" stop="20261117010000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
-    <title lang="es">Speed With Harvick and Buxton</title>
-    <desc lang="es">11-17-2026</desc>
+    <title lang="es">Kevin Harvick&amp;#039;s Happy Hour</title>
+    <desc lang="es">2026 Awards Show</desc>
   </programme>
   <programme start="20261117010000 -0400" stop="20261117013000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">The Gronk &amp;amp; Jules Show</title>
@@ -10940,9 +10939,12 @@
   <programme start="20261117140000 -0400" stop="20261117143000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">UEFA Nations League Match Day</title>
   </programme>
-  <programme start="20261117143000 -0400" stop="20261117170000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+  <programme start="20261117143000 -0400" stop="20261117150000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">UEFA Nations League Soccer</title>
     <desc lang="es">Denmark vs. Norway</desc>
+  </programme>
+  <programme start="20261117150000 -0400" stop="20261117170000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">First Things First</title>
   </programme>
   <programme start="20261117170000 -0400" stop="20261117190000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">First Things First</title>
@@ -10952,17 +10954,36 @@
     <title lang="es">First Things First: OT</title>
     <desc lang="es">11-17-2026</desc>
   </programme>
-  <programme start="20261117200000 -0400" stop="20261117220000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+  <programme start="20261117200000 -0400" stop="20261117210000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">CONCACAF Nations League Soccer</title>
     <desc lang="es">Play-In 2nd Leg: El Salvador vs. Saint Martin</desc>
+  </programme>
+  <programme start="20261117210000 -0400" stop="20261117213000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">Fox Sports Programming</title>
+  </programme>
+  <programme start="20261117213000 -0400" stop="20261117220000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">Fox Sports Programming</title>
   </programme>
   <programme start="20261117220000 -0400" stop="20261117230000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">CONCACAF Nations League Soccer</title>
     <desc lang="es">Play-In 2nd Leg: Nicaragua vs. Montserrat</desc>
   </programme>
-  <programme start="20261118000000 -0400" stop="20261118020000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
-    <title lang="es">UEFA Nations League Soccer</title>
-    <desc lang="es">Denmark vs. Norway</desc>
+  <programme start="20261117230000 -0400" stop="20261118000000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">College Football</title>
+  </programme>
+  <programme start="20261118000000 -0400" stop="20261118003000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">Fox Sports Programming</title>
+  </programme>
+  <programme start="20261118003000 -0400" stop="20261118010000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">Fox Sports Programming</title>
+  </programme>
+  <programme start="20261118010000 -0400" stop="20261118013000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">TMZ Sports</title>
+    <desc lang="es">11-17-2026</desc>
+  </programme>
+  <programme start="20261118013000 -0400" stop="20261118020000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">College Football</title>
+    <desc lang="es">Illinois at UCLA</desc>
   </programme>
   <programme start="20261118020000 -0400" stop="20261118023000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">TMZ Sports</title>
@@ -10976,13 +10997,32 @@
     <title lang="es">College Football</title>
     <desc lang="es">Northwestern at Ohio State</desc>
   </programme>
-  <programme start="20261118040000 -0400" stop="20261118070000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+  <programme start="20261118040000 -0400" stop="20261118043000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">College Football</title>
     <desc lang="es">Baylor at BYU</desc>
   </programme>
-  <programme start="20261118070000 -0400" stop="20261118080000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+  <programme start="20261118043000 -0400" stop="20261118050000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">Fox Sports Programming</title>
+  </programme>
+  <programme start="20261118050000 -0400" stop="20261118053000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">Fox Sports Programming</title>
+  </programme>
+  <programme start="20261118053000 -0400" stop="20261118060000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">Fox Sports Programming</title>
+  </programme>
+  <programme start="20261118060000 -0400" stop="20261118063000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">Fox Sports Programming</title>
+  </programme>
+  <programme start="20261118063000 -0400" stop="20261118070000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">All In: IndyCar</title>
+  </programme>
+  <programme start="20261118070000 -0400" stop="20261118073000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">Kevin Harvick&amp;#039;s Happy Hour</title>
     <desc lang="es">2026 Awards Show</desc>
+  </programme>
+  <programme start="20261118073000 -0400" stop="20261118080000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">The Gronk &amp;amp; Jules Show</title>
+    <desc lang="es">NFL Week 10 Reaction - Season 1, Episode 19</desc>
   </programme>
   <programme start="20261118080000 -0400" stop="20261118100000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">Wake Up Barstool</title>
@@ -11012,9 +11052,12 @@
     <title lang="es">NFL Films Presents</title>
     <desc lang="es">Be Yourself</desc>
   </programme>
-  <programme start="20261118190000 -0400" stop="20261118210000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+  <programme start="20261118190000 -0400" stop="20261118203000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">Women&amp;#039;s College Basketball</title>
     <desc lang="es">Ole Miss at Ohio State</desc>
+  </programme>
+  <programme start="20261118203000 -0400" stop="20261118210000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">Fox Sports Programming</title>
   </programme>
   <programme start="20261118210000 -0400" stop="20261118230000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">Men&amp;#039;s College Basketball</title>
@@ -11039,17 +11082,26 @@
     <title lang="es">College Football</title>
     <desc lang="es">Northwestern at Ohio State</desc>
   </programme>
-  <programme start="20261119020000 -0400" stop="20261119030000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+  <programme start="20261119020000 -0400" stop="20261119023000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">College Football</title>
     <desc lang="es">Illinois at UCLA</desc>
   </programme>
-  <programme start="20261119030000 -0400" stop="20261119050000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+  <programme start="20261119023000 -0400" stop="20261119030000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">TMZ Sports</title>
+    <desc lang="es">11-18-2026</desc>
+  </programme>
+  <programme start="20261119030000 -0400" stop="20261119043000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">Men&amp;#039;s College Basketball</title>
     <desc lang="es">Connecticut at Arizona</desc>
   </programme>
-  <programme start="20261119050000 -0400" stop="20261119070000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
-    <title lang="es">Women&amp;#039;s College Basketball</title>
-    <desc lang="es">Ole Miss at Ohio State</desc>
+  <programme start="20261119043000 -0400" stop="20261119050000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">UEFA Nations League Soccer</title>
+  </programme>
+  <programme start="20261119050000 -0400" stop="20261119063000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">UEFA Nations League Soccer</title>
+  </programme>
+  <programme start="20261119063000 -0400" stop="20261119070000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">The Clay Travis Show</title>
   </programme>
   <programme start="20261119070000 -0400" stop="20261119073000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">TMZ Sports</title>
@@ -11081,10 +11133,11 @@
   </programme>
   <programme start="20261119180000 -0400" stop="20261119183000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">The Gronk &amp;amp; Jules Show</title>
+    <desc lang="es">11-19-2026 - Season 1, Episode 20</desc>
   </programme>
   <programme start="20261119183000 -0400" stop="20261119190000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
-    <title lang="es">The Joel Klatt Show: A College Football on FOX Podcast</title>
-    <desc lang="es">Week 12 Preview</desc>
+    <title lang="es">The Joel Klatt Show</title>
+    <desc lang="es">Podcast Week 12 Preview</desc>
   </programme>
   <programme start="20261119190000 -0400" stop="20261119193000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">Big Noon Kickoff Presents Bear Bets</title>
@@ -11094,13 +11147,25 @@
     <title lang="es">Outkick the Show with Clay Travis</title>
     <desc lang="es">18-11-2026 - Season 2, Episode 17</desc>
   </programme>
-  <programme start="20261119200000 -0400" stop="20261119230000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+  <programme start="20261119200000 -0400" stop="20261119210000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">NHRA Drag Racing</title>
-    <desc lang="es">Pomona</desc>
+    <desc lang="es">Lucas Oil NHRA Winternationals</desc>
+  </programme>
+  <programme start="20261119210000 -0400" stop="20261119213000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">Fox Sports Programming</title>
+  </programme>
+  <programme start="20261119213000 -0400" stop="20261119220000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">Fox Sports Programming</title>
+  </programme>
+  <programme start="20261119220000 -0400" stop="20261119223000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">Fox Sports Programming</title>
+  </programme>
+  <programme start="20261119223000 -0400" stop="20261119230000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
+    <title lang="es">Fox Sports Programming</title>
   </programme>
   <programme start="20261119230000 -0400" stop="20261119233000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
-    <title lang="es">The Joel Klatt Show: A College Football on FOX Podcast</title>
-    <desc lang="es">Week 12 Preview</desc>
+    <title lang="es">The Joel Klatt Show</title>
+    <desc lang="es">Podcast Week 12 Preview</desc>
   </programme>
   <programme start="20261119233000 -0400" stop="20261120003000 -0400" channel="ontvtonight-3927951188-fox-sports-1-blackout-feed-puerto-rico">
     <title lang="es">Big Noon Kickoff Presents Bear Bets</title>
@@ -11446,11 +11511,11 @@
   <programme start="20261118233000 -0400" stop="20261119000000 -0400" channel="ontvtonight-3266577716-wapa-2-deportes-sdtv">
     <title lang="es">MLB em Boston Idiots</title>
   </programme>
-  <programme start="20261119000000 -0400" stop="20261119013000 -0400" channel="ontvtonight-3266577716-wapa-2-deportes-sdtv">
+  <programme start="20261119000000 -0400" stop="20261119010000 -0400" channel="ontvtonight-3266577716-wapa-2-deportes-sdtv">
     <title lang="es">MLB Specials</title>
     <desc lang="es">Ken Griffey Jr.</desc>
   </programme>
-  <programme start="20261119000000 -0400" stop="20261119010000 -0400" channel="ontvtonight-3266577716-wapa-2-deportes-sdtv">
+  <programme start="20261119000000 -0400" stop="20261119013000 -0400" channel="ontvtonight-3266577716-wapa-2-deportes-sdtv">
     <title lang="es">MLB Specials</title>
     <desc lang="es">Ken Griffey Jr.</desc>
   </programme>
@@ -11858,10 +11923,10 @@
   <programme start="20261119183000 -0400" stop="20261119213000 -0400" channel="ontvtonight-69023358-syfy-east">
     <title lang="es">Fast X (2023)</title>
   </programme>
-  <programme start="20261119213000 -0400" stop="20261120003000 -0400" channel="ontvtonight-69023358-syfy-east">
+  <programme start="20261119213000 -0400" stop="20261119223000 -0400" channel="ontvtonight-69023358-syfy-east">
     <title lang="es">Fast X (2023)</title>
   </programme>
-  <programme start="20261119213000 -0400" stop="20261119223000 -0400" channel="ontvtonight-69023358-syfy-east">
+  <programme start="20261119213000 -0400" stop="20261120003000 -0400" channel="ontvtonight-69023358-syfy-east">
     <title lang="es">Fast X (2023)</title>
   </programme>
   <programme start="20261120003000 -0400" stop="20261120030000 -0400" channel="ontvtonight-69023358-syfy-east">
@@ -12679,11 +12744,11 @@
     <title lang="es">Customer Wars</title>
     <desc lang="es">Refund Rage - Season 6, Episode 9</desc>
   </programme>
-  <programme start="20261118233400 -0400" stop="20261119003400 -0400" channel="ontvtonight-69047068-ae-network-east">
+  <programme start="20261118233400 -0400" stop="20261119000300 -0400" channel="ontvtonight-69047068-ae-network-east">
     <title lang="es">Customer Wars</title>
     <desc lang="es">Trespass Trouble - Season 8, Episode 9</desc>
   </programme>
-  <programme start="20261118233400 -0400" stop="20261119000300 -0400" channel="ontvtonight-69047068-ae-network-east">
+  <programme start="20261118233400 -0400" stop="20261119003400 -0400" channel="ontvtonight-69047068-ae-network-east">
     <title lang="es">Customer Wars</title>
     <desc lang="es">Trespass Trouble - Season 8, Episode 9</desc>
   </programme>
@@ -12981,7 +13046,7 @@
   </programme>
   <programme start="20261117010000 -0400" stop="20261117013000 -0400" channel="ontvtonight-69030773-food-network-east">
     <title lang="es">Sweet Deceit</title>
-    <desc lang="es">Holiday: Christmas Tree Lane</desc>
+    <desc lang="es">Holiday: Christmas Tree Lane - Season 1, Episode 5</desc>
   </programme>
   <programme start="20261117013000 -0400" stop="20261117020000 -0400" channel="ontvtonight-69030773-food-network-east">
     <title lang="es">Sweet Deceit</title>
@@ -13181,7 +13246,7 @@
   </programme>
   <programme start="20261118220000 -0400" stop="20261118223000 -0400" channel="ontvtonight-69030773-food-network-east">
     <title lang="es">Sweet Deceit</title>
-    <desc lang="es">Holiday: Christmas Tree Lane</desc>
+    <desc lang="es">Holiday: Christmas Tree Lane - Season 1, Episode 5</desc>
   </programme>
   <programme start="20261118223000 -0400" stop="20261118230000 -0400" channel="ontvtonight-69030773-food-network-east">
     <title lang="es">Sweet Deceit</title>
@@ -13201,7 +13266,7 @@
   </programme>
   <programme start="20261119020000 -0400" stop="20261119023000 -0400" channel="ontvtonight-69030773-food-network-east">
     <title lang="es">Sweet Deceit</title>
-    <desc lang="es">Holiday: Christmas Tree Lane</desc>
+    <desc lang="es">Holiday: Christmas Tree Lane - Season 1, Episode 5</desc>
   </programme>
   <programme start="20261119023000 -0400" stop="20261119030000 -0400" channel="ontvtonight-69030773-food-network-east">
     <title lang="es">Sweet Deceit</title>
@@ -15634,10 +15699,10 @@
   <programme start="20261119000000 -0400" stop="20261119003000 -0400" channel="ontvtonight-69042751-wuja-pura-palabra-tv">
     <title lang="es">WUJA Pura Palabra TV</title>
   </programme>
-  <programme start="20261119003000 -0400" stop="20261119013000 -0400" channel="ontvtonight-69042751-wuja-pura-palabra-tv">
+  <programme start="20261119003000 -0400" stop="20261120000000 -0400" channel="ontvtonight-69042751-wuja-pura-palabra-tv">
     <title lang="es">WUJA Pura Palabra TV</title>
   </programme>
-  <programme start="20261119003000 -0400" stop="20261120000000 -0400" channel="ontvtonight-69042751-wuja-pura-palabra-tv">
+  <programme start="20261119003000 -0400" stop="20261119013000 -0400" channel="ontvtonight-69042751-wuja-pura-palabra-tv">
     <title lang="es">WUJA Pura Palabra TV</title>
   </programme>
   <programme start="20261120000000 -0400" stop="20261120003000 -0400" channel="ontvtonight-69042751-wuja-pura-palabra-tv">
@@ -16684,16 +16749,11 @@
   </programme>
   <programme start="20261119200000 -0400" stop="20261119210000 -0400" channel="ontvtonight-69023552-history-east">
     <title lang="es">Pawn Stars</title>
-    <desc lang="es">The Chum Who Lived - Season 25, Episode 6</desc>
+    <desc lang="es">The Chum Who Lived - Season 25, Episode 8</desc>
   </programme>
-  <programme start="20261119210000 -0400" stop="20261119213000 -0400" channel="ontvtonight-69023552-history-east">
-    <title lang="es">History Channel Programming</title>
-  </programme>
-  <programme start="20261119213000 -0400" stop="20261119220000 -0400" channel="ontvtonight-69023552-history-east">
-    <title lang="es">History Channel Programming</title>
-  </programme>
-  <programme start="20261119220000 -0400" stop="20261119220300 -0400" channel="ontvtonight-69023552-history-east">
-    <title lang="es">History Channel Programming</title>
+  <programme start="20261119210000 -0400" stop="20261119220300 -0400" channel="ontvtonight-69023552-history-east">
+    <title lang="es">Pawn Stars</title>
+    <desc lang="es">Attack of the 50 Foot Chum - Season 25, Episode 7</desc>
   </programme>
   <programme start="20261119220300 -0400" stop="20261119230500 -0400" channel="ontvtonight-69023552-history-east">
     <title lang="es">Mountain Men</title>
@@ -16709,16 +16769,11 @@
   </programme>
   <programme start="20261120000300 -0400" stop="20261120010200 -0400" channel="ontvtonight-69023552-history-east">
     <title lang="es">Pawn Stars</title>
-    <desc lang="es">The Chum Who Lived - Season 25, Episode 6</desc>
+    <desc lang="es">The Chum Who Lived - Season 25, Episode 8</desc>
   </programme>
-  <programme start="20261120010200 -0400" stop="20261120013200 -0400" channel="ontvtonight-69023552-history-east">
-    <title lang="es">History Channel Programming</title>
-  </programme>
-  <programme start="20261120013200 -0400" stop="20261120020200 -0400" channel="ontvtonight-69023552-history-east">
-    <title lang="es">History Channel Programming</title>
-  </programme>
-  <programme start="20261120020200 -0400" stop="20261120020400 -0400" channel="ontvtonight-69023552-history-east">
-    <title lang="es">History Channel Programming</title>
+  <programme start="20261120010200 -0400" stop="20261120020400 -0400" channel="ontvtonight-69023552-history-east">
+    <title lang="es">Pawn Stars</title>
+    <desc lang="es">Attack of the 50 Foot Chum - Season 25, Episode 6</desc>
   </programme>
   <programme start="20261120020400 -0400" stop="20261120030500 -0400" channel="ontvtonight-69023552-history-east">
     <title lang="es">Mountain Men</title>
@@ -17296,7 +17351,7 @@
   </programme>
   <programme start="20261117220200 -0400" stop="20261117230100 -0400" channel="ontvtonight-69047278-the-learning-channel-east">
     <title lang="es">My Big Fat Fabulous Life</title>
-    <desc lang="es">He&amp;#039;s My Friend That&amp;#039;s a Boy</desc>
+    <desc lang="es">He&amp;#039;s My Friend That&amp;#039;s a Boy - Season 14, Episode 2</desc>
   </programme>
   <programme start="20261117230100 -0400" stop="20261118000100 -0400" channel="ontvtonight-69047278-the-learning-channel-east">
     <title lang="es">90 Day: Hunt For Love: Sheet Talking</title>
@@ -17312,7 +17367,7 @@
   </programme>
   <programme start="20261118020200 -0400" stop="20261118030100 -0400" channel="ontvtonight-69047278-the-learning-channel-east">
     <title lang="es">My Big Fat Fabulous Life</title>
-    <desc lang="es">He&amp;#039;s My Friend That&amp;#039;s a Boy</desc>
+    <desc lang="es">He&amp;#039;s My Friend That&amp;#039;s a Boy - Season 14, Episode 2</desc>
   </programme>
   <programme start="20261118030100 -0400" stop="20261118040000 -0400" channel="ontvtonight-69047278-the-learning-channel-east">
     <title lang="es">90 Day: Hunt For Love: Sheet Talking</title>
@@ -17400,7 +17455,7 @@
   </programme>
   <programme start="20261118230000 -0400" stop="20261119000000 -0400" channel="ontvtonight-69047278-the-learning-channel-east">
     <title lang="es">My Big Fat Fabulous Life</title>
-    <desc lang="es">He&amp;#039;s My Friend That&amp;#039;s a Boy</desc>
+    <desc lang="es">He&amp;#039;s My Friend That&amp;#039;s a Boy - Season 14, Episode 2</desc>
   </programme>
   <programme start="20261119000000 -0400" stop="20261119010000 -0400" channel="ontvtonight-69047278-the-learning-channel-east">
     <title lang="es">Untold Stories of the ER</title>
@@ -17416,7 +17471,7 @@
   </programme>
   <programme start="20261119030000 -0400" stop="20261119040000 -0400" channel="ontvtonight-69047278-the-learning-channel-east">
     <title lang="es">My Big Fat Fabulous Life</title>
-    <desc lang="es">He&amp;#039;s My Friend That&amp;#039;s a Boy</desc>
+    <desc lang="es">He&amp;#039;s My Friend That&amp;#039;s a Boy - Season 14, Episode 2</desc>
   </programme>
   <programme start="20261119040000 -0400" stop="20261119050000 -0400" channel="ontvtonight-69047278-the-learning-channel-east">
     <title lang="es">Unexpected</title>
@@ -17448,7 +17503,7 @@
   </programme>
   <programme start="20261119110000 -0400" stop="20261119120000 -0400" channel="ontvtonight-69047278-the-learning-channel-east">
     <title lang="es">My Big Fat Fabulous Life</title>
-    <desc lang="es">He&amp;#039;s My Friend That&amp;#039;s a Boy</desc>
+    <desc lang="es">He&amp;#039;s My Friend That&amp;#039;s a Boy - Season 14, Episode 2</desc>
   </programme>
   <programme start="20261119120000 -0400" stop="20261119130000 -0400" channel="ontvtonight-69047278-the-learning-channel-east">
     <title lang="es">7 Little Johnstons</title>
@@ -18144,10 +18199,10 @@
     <title lang="es">TNA Wrestling Legends</title>
     <desc lang="es">AJ Styles</desc>
   </programme>
-  <programme start="20261119230000 -0400" stop="20261120000000 -0400" channel="ontvtonight-1414706180-axstv">
+  <programme start="20261119230000 -0400" stop="20261120003000 -0400" channel="ontvtonight-1414706180-axstv">
     <title lang="es">TNA Unfinished Business: Hardcore Justice 2</title>
   </programme>
-  <programme start="20261119230000 -0400" stop="20261120003000 -0400" channel="ontvtonight-1414706180-axstv">
+  <programme start="20261119230000 -0400" stop="20261120000000 -0400" channel="ontvtonight-1414706180-axstv">
     <title lang="es">TNA Unfinished Business: Hardcore Justice 2</title>
   </programme>
   <programme start="20261120003000 -0400" stop="20261120010000 -0400" channel="ontvtonight-1414706180-axstv">
@@ -19956,27 +20011,27 @@
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Vamos de viaje / El restaurante / Visitemos el cañón / Hollywood / La motocicleta</desc>
   </programme>
-  <programme start="20261118060000 -0400" stop="20261118062500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118060000 -0400" stop="20261118062600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini beat power rockers</title>
     <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
   </programme>
-  <programme start="20261118062500 -0400" stop="20261118063800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118062600 -0400" stop="20261118063900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">El mundo de Luna</title>
     <desc lang="es">Uno, dos, tres, cuatro, cinco y seis - Season 8, Episode 15</desc>
   </programme>
-  <programme start="20261118063800 -0400" stop="20261118070000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118063900 -0400" stop="20261118070100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Jorge, el curioso</title>
     <desc lang="es">Un cerdo, un cachorro y un mono / Canción de cuna para una orquídea</desc>
   </programme>
-  <programme start="20261118070000 -0400" stop="20261118071300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118070100 -0400" stop="20261118071400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Bubble&amp;#039;s Hotel</title>
     <desc lang="es">Supernova - Season 1, Episode 11</desc>
   </programme>
-  <programme start="20261118071300 -0400" stop="20261118072500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118071400 -0400" stop="20261118072600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Super Wish</title>
     <desc lang="es">Lucha libre - Season 1, Episode 43</desc>
   </programme>
-  <programme start="20261118072500 -0400" stop="20261118073900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118072600 -0400" stop="20261118073900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Super Wish</title>
     <desc lang="es">¡Se acabó la fiesta! - Season 1, Episode 44</desc>
   </programme>
@@ -19984,31 +20039,31 @@
     <title lang="es">Polly Pocket</title>
     <desc lang="es">Vaya, Nelly, sintiéndote E-Raced - Season 5, Episode 9</desc>
   </programme>
-  <programme start="20261118075000 -0400" stop="20261118080100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118075000 -0400" stop="20261118080200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Topo Gigio</title>
     <desc lang="es">Episode 8 - Season 2, Episode 8</desc>
   </programme>
-  <programme start="20261118080100 -0400" stop="20261118082500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118080200 -0400" stop="20261118082600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Academia Unicornio</title>
     <desc lang="es">Legados - Season 2, Episode 5</desc>
   </programme>
-  <programme start="20261118082500 -0400" stop="20261118084800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118082600 -0400" stop="20261118085100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Iglú</desc>
   </programme>
-  <programme start="20261118084800 -0400" stop="20261118091400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118085100 -0400" stop="20261118091600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Market / Father Christmas / Peppa Goes Paris / Grandpa&amp;#039;s Pond / Once Upon a Time</desc>
   </programme>
-  <programme start="20261118091400 -0400" stop="20261118091900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118091600 -0400" stop="20261118092100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">El mejor nombre</desc>
   </programme>
-  <programme start="20261118091900 -0400" stop="20261118093100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118092100 -0400" stop="20261118093300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Talking Tom Heroes: Los Superpoderosos</title>
     <desc lang="es">No Show and Tell - Season 1, Episode 18</desc>
   </programme>
-  <programme start="20261118093100 -0400" stop="20261118094400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118093300 -0400" stop="20261118094400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Talking Tom Heroes: Los Superpoderosos</title>
     <desc lang="es">Kranium versus el mundo - Season 1, Episode 10</desc>
   </programme>
@@ -20024,291 +20079,379 @@
     <title lang="es">Hello Kitty: Super Style!</title>
     <desc lang="es">La llave a una leyenda - Season 1, Episode 48</desc>
   </programme>
-  <programme start="20261118103000 -0400" stop="20261118104400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118103000 -0400" stop="20261118104300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">El mundo de Luna</title>
     <desc lang="es">¡El árbol que borra! - Season 9, Episode 2</desc>
   </programme>
-  <programme start="20261118104400 -0400" stop="20261118105600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118104300 -0400" stop="20261118105400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Zuk la brujita</title>
     <desc lang="es">Un cumpleaños mágico - Season 1, Episode 8</desc>
   </programme>
-  <programme start="20261118105600 -0400" stop="20261118110800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118105400 -0400" stop="20261118110500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Zuk la brujita</title>
     <desc lang="es">El poder de Nono - Season 1, Episode 25</desc>
   </programme>
-  <programme start="20261118110800 -0400" stop="20261118112100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118110500 -0400" stop="20261118111800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Zuk la brujita</title>
     <desc lang="es">El abuelo Zik - Season 1, Episode 33</desc>
   </programme>
-  <programme start="20261118112100 -0400" stop="20261118113500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118111800 -0400" stop="20261118113100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Zuk la brujita</title>
     <desc lang="es">Furia helada</desc>
   </programme>
-  <programme start="20261118113500 -0400" stop="20261118114000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118113100 -0400" stop="20261118113600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Los sonidos favoritos - Season 11, Episode 15</desc>
   </programme>
-  <programme start="20261118114000 -0400" stop="20261118120300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118113600 -0400" stop="20261118115900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">El robot del Abuelo Cerdito</desc>
   </programme>
-  <programme start="20261118120300 -0400" stop="20261118122700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118115900 -0400" stop="20261118122300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Vamos a esquiar / Perfume / El arenero / La tetera del señor Toribio</desc>
   </programme>
-  <programme start="20261118122700 -0400" stop="20261118125100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118122300 -0400" stop="20261118124700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Jorge, el curioso</title>
     <desc lang="es">Un cerdo, un cachorro y un mono / Canción de cuna para una orquídea</desc>
   </programme>
-  <programme start="20261118125100 -0400" stop="20261118131300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118124700 -0400" stop="20261118130900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Magia de sirenas</title>
     <desc lang="es">Episodio 1 - Season 1, Episode 1</desc>
   </programme>
-  <programme start="20261118131300 -0400" stop="20261118133600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118130900 -0400" stop="20261118133200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">LEGO DREAMZzz</title>
     <desc lang="es">Buscadores de sueños - Season 1, Episode 2</desc>
   </programme>
-  <programme start="20261118133600 -0400" stop="20261118140000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118133200 -0400" stop="20261118135600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Tres espías sin límite</title>
     <desc lang="es">Vida salvaje - Season 7, Episode 15</desc>
   </programme>
-  <programme start="20261118140000 -0400" stop="20261118142400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118135600 -0400" stop="20261118142100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">La fiesta de dinosaurios / La fiesta de superhéroes / Un día con la Doctora Hámster / El h</desc>
   </programme>
-  <programme start="20261118142400 -0400" stop="20261118144900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118142100 -0400" stop="20261118144500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">El Señor Toribio limpia el río</desc>
   </programme>
-  <programme start="20261118144900 -0400" stop="20261118145400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118144500 -0400" stop="20261118145100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini Beat Power Rockers</title>
     <desc lang="es">¿Un día relajado?</desc>
   </programme>
-  <programme start="20261118145400 -0400" stop="20261118145900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118145100 -0400" stop="20261118145500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini Beat Power Rockers</title>
     <desc lang="es">¡Buenos días pequeñines! - Season 3, Episode 25</desc>
   </programme>
-  <programme start="20261118145900 -0400" stop="20261118150400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118145500 -0400" stop="20261118150000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini Beat Power Rockers</title>
     <desc lang="es">Adiós al chupete - Season 3, Episode 26</desc>
   </programme>
-  <programme start="20261118150400 -0400" stop="20261118151600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118150000 -0400" stop="20261118151300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Talking Tom Heroes: Los Superpoderosos</title>
     <desc lang="es">Teeny Tiny Tom - Season 1, Episode 20</desc>
   </programme>
-  <programme start="20261118151600 -0400" stop="20261118153000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118151300 -0400" stop="20261118152600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mojo Swoptops</title>
     <desc lang="es">Sé valiente, Bryan - Season 1, Episode 12</desc>
   </programme>
-  <programme start="20261118153000 -0400" stop="20261118154200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118152600 -0400" stop="20261118153700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Zuk la brujita</title>
     <desc lang="es">La vecina que odiaba a los magos - Season 1, Episode 16</desc>
   </programme>
-  <programme start="20261118154200 -0400" stop="20261118160400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118153700 -0400" stop="20261118155800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Winx Club: Vuelve la magia</title>
     <desc lang="es">¿Hada o bruja? - Season 1, Episode 2</desc>
   </programme>
-  <programme start="20261118160400 -0400" stop="20261118161600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118155800 -0400" stop="20261118161200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Topo Gigio</title>
     <desc lang="es">El día de Gigio</desc>
   </programme>
-  <programme start="20261118161600 -0400" stop="20261118164100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118161200 -0400" stop="20261118163600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">El cumpleaños de Mandy Ratona / El castillo de arena</desc>
   </programme>
-  <programme start="20261118164100 -0400" stop="20261118170400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118163600 -0400" stop="20261118165900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Juegos de papel</desc>
   </programme>
-  <programme start="20261118170400 -0400" stop="20261118172800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118165900 -0400" stop="20261118172400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">El tesoro pirata / La luna y las estrellas / El circo de Peppa / El estanque / Cuando eras...</desc>
   </programme>
-  <programme start="20261118172800 -0400" stop="20261118175300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118172400 -0400" stop="20261118174900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">La fiesta de dinosaurios / La fiesta de superhéroes / Un día con la Doctora Hámster / El h</desc>
   </programme>
-  <programme start="20261118175300 -0400" stop="20261118175800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118174900 -0400" stop="20261118175400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini Beat Power Rockers</title>
     <desc lang="es">La niñera durmiente - Season 4, Episode 16</desc>
   </programme>
-  <programme start="20261118175800 -0400" stop="20261118180300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118175400 -0400" stop="20261118175900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Especial - Mini Beat Power Rockers</title>
     <desc lang="es">Destinados a rockear - Parte 2</desc>
   </programme>
-  <programme start="20261118180300 -0400" stop="20261118182800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118175900 -0400" stop="20261118182500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini beat power rockers</title>
     <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
   </programme>
-  <programme start="20261118182800 -0400" stop="20261118185200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118182500 -0400" stop="20261118184700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">LEGO DREAMZzz</title>
     <desc lang="es">Buscadores de sueños - Season 1, Episode 2</desc>
   </programme>
-  <programme start="20261118185200 -0400" stop="20261118191400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118184700 -0400" stop="20261118190900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Shasha y Milo: cortos</title>
     <desc lang="es">Gatomanía - Season 1, Episode 22</desc>
   </programme>
-  <programme start="20261118191400 -0400" stop="20261118192700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118190900 -0400" stop="20261118192200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mojo Swoptops</title>
     <desc lang="es">Cerdos voladores - Season 1, Episode 11</desc>
   </programme>
-  <programme start="20261118192700 -0400" stop="20261118193800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118192200 -0400" stop="20261118193300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Zuk la brujita</title>
     <desc lang="es">El viento Zef - Season 1, Episode 12</desc>
   </programme>
-  <programme start="20261118193800 -0400" stop="20261118200300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118193300 -0400" stop="20261118195600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Academia Unicornio</title>
     <desc lang="es">Año del Unicornio - Season 2, Episode 2</desc>
   </programme>
-  <programme start="20261118200300 -0400" stop="20261118202600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118195600 -0400" stop="20261118202000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Tres espías sin límite</title>
     <desc lang="es">Intercambio de roles - Season 8, Episode 2</desc>
   </programme>
-  <programme start="20261118202600 -0400" stop="20261118205000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118202000 -0400" stop="20261118204200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Magia de sirenas</title>
     <desc lang="es">Pirates&amp;#039; Cove</desc>
   </programme>
-  <programme start="20261118205000 -0400" stop="20261118210100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118204200 -0400" stop="20261118205300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Topo Gigio</title>
     <desc lang="es">Profesor Cornacchia - Season 1, Episode 37</desc>
   </programme>
-  <programme start="20261118210100 -0400" stop="20261118212500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118205300 -0400" stop="20261118211800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">El carro de carreras / El botecito / El arenero / Animales nocturnos / Vacaciones</desc>
   </programme>
-  <programme start="20261118212500 -0400" stop="20261118215000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118211800 -0400" stop="20261118214300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Castillos relajantes / Multa de estacionamiento / Día del Padre / Música divertida / Pícnic</desc>
   </programme>
-  <programme start="20261118215000 -0400" stop="20261118220200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118214300 -0400" stop="20261118215400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Zuk la brujita</title>
     <desc lang="es">Un cumpleaños mágico - Season 1, Episode 8</desc>
   </programme>
-  <programme start="20261118220200 -0400" stop="20261118221400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118215400 -0400" stop="20261118220500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Zuk la brujita</title>
     <desc lang="es">El poder de Nono - Season 1, Episode 25</desc>
   </programme>
-  <programme start="20261118221400 -0400" stop="20261118222700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118220500 -0400" stop="20261118221700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Zuk la brujita</title>
     <desc lang="es">El abuelo Zik - Season 1, Episode 33</desc>
   </programme>
-  <programme start="20261118222700 -0400" stop="20261118224100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118221700 -0400" stop="20261118223000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Zuk la brujita</title>
     <desc lang="es">Furia helada</desc>
   </programme>
-  <programme start="20261118224100 -0400" stop="20261118224600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118223000 -0400" stop="20261118223500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Paseo en el bosque - Season 11, Episode 28</desc>
   </programme>
-  <programme start="20261118224600 -0400" stop="20261118225100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118223500 -0400" stop="20261118224000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">La presa de los castores - Season 11, Episode 29</desc>
   </programme>
-  <programme start="20261118225100 -0400" stop="20261118231300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118224000 -0400" stop="20261118230200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Shasha y Milo: cortos</title>
     <desc lang="es">Los cristales son los mejores amigos de un gato - Season 1, Episode 9</desc>
   </programme>
-  <programme start="20261118231300 -0400" stop="20261118232500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118230200 -0400" stop="20261118231500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Polly Pocket</title>
     <desc lang="es">La niñera koala lista para su entrega - Season 5, Episode 12</desc>
   </programme>
-  <programme start="20261118232500 -0400" stop="20261118233600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118231500 -0400" stop="20261118232600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Topo Gigio</title>
     <desc lang="es">El mapa del tesoro</desc>
   </programme>
-  <programme start="20261118233600 -0400" stop="20261118234900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118232600 -0400" stop="20261118233900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Topo Gigio</title>
     <desc lang="es">Tatum está en casa - Season 2, Episode 3</desc>
+  </programme>
+  <programme start="20261118233900 -0400" stop="20261118234400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini beat power rockers</title>
+    <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
+  </programme>
+  <programme start="20261118234400 -0400" stop="20261118234900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini Beat Power Rockers</title>
+    <desc lang="es">Batalla de bandas - Season 4, Episode 29</desc>
   </programme>
   <programme start="20261118234900 -0400" stop="20261118235400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini beat power rockers</title>
     <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
   </programme>
   <programme start="20261118235400 -0400" stop="20261119005400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini Beat Power Rockers</title>
-    <desc lang="es">Batalla de bandas - Season 4, Episode 29</desc>
-  </programme>
-  <programme start="20261118235900 -0400" stop="20261119000400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini beat power rockers</title>
-    <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
-  </programme>
-  <programme start="20261119000400 -0400" stop="20261119001500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Hello Kitty: Super Style!</title>
     <desc lang="es">Día de la amistad - Season 1, Episode 2</desc>
   </programme>
-  <programme start="20261119001500 -0400" stop="20261119002700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261118235400 -0400" stop="20261119000500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Hello Kitty: Super Style!</title>
+    <desc lang="es">Día de la amistad - Season 1, Episode 2</desc>
+  </programme>
+  <programme start="20261119000000 -0400" stop="20261119000400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Especial - Mini Beat Power Rockers</title>
+    <desc lang="es">Una canción para mamá</desc>
+  </programme>
+  <programme start="20261119000400 -0400" stop="20261119001500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Hello Kitty: Super Style!</title>
+    <desc lang="es">Un buen deporte - Season 1, Episode 3</desc>
+  </programme>
+  <programme start="20261119000500 -0400" stop="20261119001800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Hello Kitty: Super Style!</title>
     <desc lang="es">La leyenda de diente dulce - Season 1, Episode 9</desc>
   </programme>
-  <programme start="20261119002700 -0400" stop="20261119005300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119001500 -0400" stop="20261119002800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Hello Kitty: Super Style!</title>
+    <desc lang="es">Cazadores de tesoros - Season 1, Episode 4</desc>
+  </programme>
+  <programme start="20261119001800 -0400" stop="20261119004400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini beat power rockers</title>
     <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
   </programme>
-  <programme start="20261119005300 -0400" stop="20261119011700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119002800 -0400" stop="20261119005400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini beat power rockers</title>
     <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
   </programme>
-  <programme start="20261119011700 -0400" stop="20261119012200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119004400 -0400" stop="20261119010800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini beat power rockers</title>
+    <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
+  </programme>
+  <programme start="20261119005400 -0400" stop="20261119011800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini beat power rockers</title>
+    <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
+  </programme>
+  <programme start="20261119010800 -0400" stop="20261119011300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini Beat Power Rockers</title>
     <desc lang="es">Dolores contra la arena - Season 4, Episode 32</desc>
   </programme>
-  <programme start="20261119012200 -0400" stop="20261119013400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119011300 -0400" stop="20261119012600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Héroes y hermanos</title>
     <desc lang="es">Hermano e hijo - Season 1, Episode 1</desc>
   </programme>
-  <programme start="20261119013400 -0400" stop="20261119014700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119011800 -0400" stop="20261119012200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini Beat Power Rockers</title>
+    <desc lang="es">El desafío de Los Mini - Season 4, Episode 33</desc>
+  </programme>
+  <programme start="20261119012200 -0400" stop="20261119013500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Héroes y hermanos</title>
     <desc lang="es">Hermano e hijo - Season 1, Episode 1</desc>
   </programme>
-  <programme start="20261119014700 -0400" stop="20261119015800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119012600 -0400" stop="20261119013800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Héroes y hermanos</title>
+    <desc lang="es">Hermano e hijo - Season 1, Episode 1</desc>
+  </programme>
+  <programme start="20261119013500 -0400" stop="20261119014700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Héroes y hermanos</title>
+    <desc lang="es">Lenny es un superhéroe - Season 1, Episode 20</desc>
+  </programme>
+  <programme start="20261119013800 -0400" stop="20261119014800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Héroes y hermanos</title>
     <desc lang="es">El gato Bubu</desc>
   </programme>
-  <programme start="20261119015800 -0400" stop="20261119020900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119014700 -0400" stop="20261119015800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Héroes y hermanos</title>
+    <desc lang="es">Samomorfosis - Season 1, Episode 21</desc>
+  </programme>
+  <programme start="20261119014800 -0400" stop="20261119020000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Ba da Bean</title>
     <desc lang="es">El día del error - Season 1, Episode 16</desc>
   </programme>
-  <programme start="20261119020900 -0400" stop="20261119022000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119015800 -0400" stop="20261119020900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Ba da Bean</title>
+    <desc lang="es">La cueva de los garabatos olvidados - Season 1, Episode 19</desc>
+  </programme>
+  <programme start="20261119020000 -0400" stop="20261119021100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Ba da Bean</title>
     <desc lang="es">El desorden de Cosa - Season 1, Episode 17</desc>
   </programme>
-  <programme start="20261119022000 -0400" stop="20261119023200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119020900 -0400" stop="20261119022000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Ba da Bean</title>
+    <desc lang="es">El collage - Season 1, Episode 20</desc>
+  </programme>
+  <programme start="20261119021100 -0400" stop="20261119022400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Ba da Bean</title>
     <desc lang="es">Mal gusto - Season 1, Episode 18</desc>
   </programme>
-  <programme start="20261119023200 -0400" stop="20261119024600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119022000 -0400" stop="20261119023300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Ba da Bean</title>
+    <desc lang="es">Flash, el magnífico - Season 1, Episode 21</desc>
+  </programme>
+  <programme start="20261119022400 -0400" stop="20261119023600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Underdogs United</title>
     <desc lang="es">Soprtsville sin reglas - Season 1, Episode 27</desc>
   </programme>
-  <programme start="20261119024600 -0400" stop="20261119025800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119023300 -0400" stop="20261119024600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Metegol Underdogs United</title>
+    <desc lang="es">Ventaja deportiva</desc>
+  </programme>
+  <programme start="20261119023600 -0400" stop="20261119025600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Underdogs United</title>
     <desc lang="es">Todos los deportes del mundo - Season 1, Episode 28</desc>
   </programme>
-  <programme start="20261119025800 -0400" stop="20261119030900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119024600 -0400" stop="20261119025700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Metegol Underdogs United</title>
+    <desc lang="es">Campeona virtual</desc>
+  </programme>
+  <programme start="20261119025600 -0400" stop="20261119030800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Underdogs United</title>
     <desc lang="es">Bienvenidos a Fashionville - Season 1, Episode 29</desc>
   </programme>
-  <programme start="20261119030900 -0400" stop="20261119033400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119025700 -0400" stop="20261119030800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Underdogs United</title>
+    <desc lang="es">Duelo de ajedrez - Season 1, Episode 32</desc>
+  </programme>
+  <programme start="20261119030800 -0400" stop="20261119033300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini beat power rockers</title>
     <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
   </programme>
-  <programme start="20261119033400 -0400" stop="20261119040000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119030800 -0400" stop="20261119033400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini beat power rockers</title>
     <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
   </programme>
-  <programme start="20261119040000 -0400" stop="20261119042200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119033300 -0400" stop="20261119035900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini beat power rockers</title>
+    <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
+  </programme>
+  <programme start="20261119033400 -0400" stop="20261119035900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini beat power rockers</title>
+    <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
+  </programme>
+  <programme start="20261119035900 -0400" stop="20261119042300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Agente Binky al rescate</title>
     <desc lang="es">Comida verde / Eso se tiene que ir</desc>
   </programme>
-  <programme start="20261119042200 -0400" stop="20261119044500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119035900 -0400" stop="20261119042300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Agente Binky al rescate</title>
+    <desc lang="es">Una mosca en mi pelo / Llévame al robot</desc>
+  </programme>
+  <programme start="20261119042300 -0400" stop="20261119044700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">¡Agente binky al rescate!</title>
     <desc lang="es">Undercover of the Night/Unidentified FUN Object</desc>
   </programme>
-  <programme start="20261119044500 -0400" stop="20261119051100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119042300 -0400" stop="20261119044700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Agente Binky al rescate</title>
+    <desc lang="es">Salvemos a Ted / Con alas</desc>
+  </programme>
+  <programme start="20261119044700 -0400" stop="20261119051200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Muddy Puddles</desc>
   </programme>
-  <programme start="20261119051100 -0400" stop="20261119053500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119044700 -0400" stop="20261119051000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">Scooterspumpkin Competitionmove To Musiclondonsimp</desc>
+  </programme>
+  <programme start="20261119051000 -0400" stop="20261119053500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">Flying a Kite - Season 1, Episode 14</desc>
+  </programme>
+  <programme start="20261119051200 -0400" stop="20261119053500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Tiny Land / Stamps / Digger World / Woolly Hat / Soft Play</desc>
   </programme>
@@ -20316,27 +20459,55 @@
     <title lang="es">Peppa Pig</title>
     <desc lang="es">El tesoro del mar / Monito está enfermo / Auto de policía / Un pie, salta, brinca / Rescatan</desc>
   </programme>
+  <programme start="20261119053500 -0400" stop="20261119060000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">El diario de Peppa / Juguemos golf / El safari de insectos / Aros / Un día en el parque</desc>
+  </programme>
+  <programme start="20261119060000 -0400" stop="20261119062600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini beat power rockers</title>
+    <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
+  </programme>
   <programme start="20261119060000 -0400" stop="20261119062500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini beat power rockers</title>
     <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
   </programme>
   <programme start="20261119062500 -0400" stop="20261119063800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">El mundo de Luna</title>
+    <desc lang="es">Vamos a la escuela - Season 8, Episode 17</desc>
+  </programme>
+  <programme start="20261119062600 -0400" stop="20261119063900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">El mundo de Luna</title>
     <desc lang="es">Una aventura congelada - Season 8, Episode 16</desc>
   </programme>
   <programme start="20261119063800 -0400" stop="20261119070000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Jorge, el curioso</title>
+    <desc lang="es">Jorge en el desierto / El juego de las texturas</desc>
+  </programme>
+  <programme start="20261119063900 -0400" stop="20261119070100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Jorge, el curioso</title>
     <desc lang="es">Mono en la nieve / ¡En sus marcas, listos, flamencos!</desc>
   </programme>
   <programme start="20261119070000 -0400" stop="20261119071300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Bubble&amp;#039;s Hotel</title>
+    <desc lang="es">A volar - Season 1, Episode 13</desc>
+  </programme>
+  <programme start="20261119070100 -0400" stop="20261119071400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Bubble&amp;#039;s Hotel</title>
     <desc lang="es">Búsqueda del tesoro - Season 1, Episode 12</desc>
   </programme>
   <programme start="20261119071300 -0400" stop="20261119072500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Super Wish</title>
+    <desc lang="es">Los túneles del sueño - Season 1, Episode 47</desc>
+  </programme>
+  <programme start="20261119071400 -0400" stop="20261119072600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Super Wish</title>
     <desc lang="es">¿Qué número sigue? - Season 1, Episode 45</desc>
   </programme>
   <programme start="20261119072500 -0400" stop="20261119073900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Super Wish</title>
+    <desc lang="es">El castillo de espuma - Season 1, Episode 48</desc>
+  </programme>
+  <programme start="20261119072600 -0400" stop="20261119073900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Super Wish</title>
     <desc lang="es">Una situación pegajosa - Season 1, Episode 46</desc>
   </programme>
@@ -20344,151 +20515,323 @@
     <title lang="es">Polly Pocket</title>
     <desc lang="es">El Lulufoofoo Switcherooroo flota - Season 5, Episode 8</desc>
   </programme>
-  <programme start="20261119075000 -0400" stop="20261119080100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119073900 -0400" stop="20261119075000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Polly Pocket</title>
+    <desc lang="es">Estatuas intrigantes El fantasma de la poppera - Season 5, Episode 7</desc>
+  </programme>
+  <programme start="20261119075000 -0400" stop="20261119080200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Topo Gigio</title>
     <desc lang="es">Los mensajes de Emilia - Season 2, Episode 1</desc>
   </programme>
+  <programme start="20261119075000 -0400" stop="20261119080100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Topo Gigio</title>
+    <desc lang="es">La medalla al valor - Season 2, Episode 16</desc>
+  </programme>
   <programme start="20261119080100 -0400" stop="20261119082500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Academia Unicornio</title>
+    <desc lang="es">La multitud equivocada - Season 2, Episode 7</desc>
+  </programme>
+  <programme start="20261119080200 -0400" stop="20261119082600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Academia Unicornio</title>
     <desc lang="es">Tensiones en aumento</desc>
   </programme>
   <programme start="20261119082500 -0400" stop="20261119084800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
+    <desc lang="es">Juegos de papel</desc>
+  </programme>
+  <programme start="20261119082600 -0400" stop="20261119085000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
     <desc lang="es">El robot del Abuelo Cerdito</desc>
   </programme>
   <programme start="20261119084800 -0400" stop="20261119091400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">Paseo en barco / El invernadero del abuelo Pig / El barco del abuelo - Season 7, Episode 9</desc>
+  </programme>
+  <programme start="20261119085000 -0400" stop="20261119091500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Al ritmo de la música - Season 5, Episode 16</desc>
   </programme>
   <programme start="20261119091400 -0400" stop="20261119091900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
+    <desc lang="es">Prueba de audición - Season 11, Episode 14</desc>
+  </programme>
+  <programme start="20261119091500 -0400" stop="20261119092000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
     <desc lang="es">Cuidando a la bebé</desc>
   </programme>
   <programme start="20261119091900 -0400" stop="20261119093100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Talking Tom Heroes: Los Superpoderosos</title>
+    <desc lang="es">Teeny Tiny Tom - Season 1, Episode 20</desc>
+  </programme>
+  <programme start="20261119092000 -0400" stop="20261119093300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Talking Tom Heroes: Los Superpoderosos</title>
     <desc lang="es">Day of the Living Dinos - Season 1, Episode 19</desc>
   </programme>
   <programme start="20261119093100 -0400" stop="20261119094400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Talking Tom Heroes: Los Superpoderosos</title>
+    <desc lang="es">Problemas en Ciudad Cumbre - Season 1, Episode 2</desc>
+  </programme>
+  <programme start="20261119093300 -0400" stop="20261119094600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Talking Tom Heroes: Los Superpoderosos</title>
     <desc lang="es">Súper como un héroe - Season 1, Episode 12</desc>
   </programme>
   <programme start="20261119094400 -0400" stop="20261119095500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Zuk la brujita</title>
+    <desc lang="es">Burbuja de los deseos - Season 1, Episode 26</desc>
+  </programme>
+  <programme start="20261119094600 -0400" stop="20261119095700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Zuk la brujita</title>
     <desc lang="es">El poder de Nono - Season 1, Episode 25</desc>
   </programme>
   <programme start="20261119095500 -0400" stop="20261119101700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mermicorno: Lluvia de Estrellas</title>
+    <desc lang="es">¿Quién es la princesa Hanna?</desc>
+  </programme>
+  <programme start="20261119095700 -0400" stop="20261119101900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mermicorno: Lluvia de Estrellas</title>
     <desc lang="es">El Vengador de Hielo Enmascarado - Season 2, Episode 6</desc>
   </programme>
   <programme start="20261119101700 -0400" stop="20261119103000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Hello Kitty: Super Style!</title>
+    <desc lang="es">Río, el atrevido - Season 1, Episode 47</desc>
+  </programme>
+  <programme start="20261119101900 -0400" stop="20261119103200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Hello Kitty: Super Style!</title>
     <desc lang="es">Adiós, Kitty - Season 1, Episode 26</desc>
   </programme>
   <programme start="20261119103000 -0400" stop="20261119104400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">El mundo de Luna</title>
+    <desc lang="es">Casas caminantes - Season 9, Episode 4</desc>
+  </programme>
+  <programme start="20261119103200 -0400" stop="20261119104500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">El mundo de Luna</title>
     <desc lang="es">¡El río crece! - Season 9, Episode 3</desc>
   </programme>
-  <programme start="20261119104400 -0400" stop="20261119110700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119104400 -0400" stop="20261119104900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini beat power rockers</title>
+    <desc lang="es">El cumpleaños de Carlos - Season 1, Episode 43</desc>
+  </programme>
+  <programme start="20261119104500 -0400" stop="20261119110600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Magia de sirenas</title>
     <desc lang="es">A Test for Merlinda</desc>
   </programme>
-  <programme start="20261119110700 -0400" stop="20261119113100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119104900 -0400" stop="20261119105400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini Beat Power Rockers</title>
+    <desc lang="es">Hay que afinar a Dolores - Season 2, Episode 63</desc>
+  </programme>
+  <programme start="20261119105400 -0400" stop="20261119105900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini Beat Power Rockers</title>
+    <desc lang="es">Cumpleaños virtual - Season 3, Episode 51</desc>
+  </programme>
+  <programme start="20261119105900 -0400" stop="20261119110400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini beat power rockers</title>
+    <desc lang="es">El cumpleaños de jay - Season 2, Episode 49</desc>
+  </programme>
+  <programme start="20261119110400 -0400" stop="20261119110900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini Beat Power Rockers</title>
+    <desc lang="es">Porque es una gran niñera - Season 2, Episode 72</desc>
+  </programme>
+  <programme start="20261119110600 -0400" stop="20261119113000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Magia de sirenas</title>
     <desc lang="es">Episodio 10 - Season 1, Episode 10</desc>
   </programme>
-  <programme start="20261119113100 -0400" stop="20261119113500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119110900 -0400" stop="20261119112100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Polly Pocket</title>
+    <desc lang="es">La fiesta perfecta - Season 5, Episode 23</desc>
+  </programme>
+  <programme start="20261119112100 -0400" stop="20261119113500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Polly Pocket</title>
+    <desc lang="es">Castillos y unicornios dobles de la duquesa - Season 5, Episode 10</desc>
+  </programme>
+  <programme start="20261119113000 -0400" stop="20261119113400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Academia Unicornio</title>
     <desc lang="es">Diversión con potros: Parte 3</desc>
   </programme>
-  <programme start="20261119113500 -0400" stop="20261119114000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119113400 -0400" stop="20261119113900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Pijamada en el hospital - Season 11, Episode 16</desc>
   </programme>
-  <programme start="20261119114000 -0400" stop="20261119120300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119113500 -0400" stop="20261119114000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">Cuidando al abuelo cerdito - Season 11, Episode 17</desc>
+  </programme>
+  <programme start="20261119113900 -0400" stop="20261119120400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Juegos de papel</desc>
   </programme>
+  <programme start="20261119114000 -0400" stop="20261119120300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">Nubes</desc>
+  </programme>
   <programme start="20261119120300 -0400" stop="20261119122700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">El carro de carreras / El botecito / El arenero / Animales nocturnos / Vacaciones</desc>
+  </programme>
+  <programme start="20261119120400 -0400" stop="20261119122900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">La reina / La isla desierta / Perfume / La fiesta de los niños - Season 6, Episode 1</desc>
   </programme>
   <programme start="20261119122700 -0400" stop="20261119125100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Jorge, el curioso</title>
+    <desc lang="es">Jorge en el desierto / El juego de las texturas</desc>
+  </programme>
+  <programme start="20261119122900 -0400" stop="20261119125300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Jorge, el curioso</title>
     <desc lang="es">Mono en la nieve / ¡En sus marcas, listos, flamencos!</desc>
   </programme>
   <programme start="20261119125100 -0400" stop="20261119131300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Magia de sirenas</title>
+    <desc lang="es">Secretos oscuros bajo la escuela</desc>
+  </programme>
+  <programme start="20261119125300 -0400" stop="20261119131300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Magia de sirenas</title>
     <desc lang="es">Pirates&amp;#039; Cove</desc>
   </programme>
-  <programme start="20261119131300 -0400" stop="20261119133600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119131300 -0400" stop="20261119133500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">LEGO DREAMZzz</title>
     <desc lang="es">Soñadores perseguidos - Season 1, Episode 3</desc>
   </programme>
-  <programme start="20261119133600 -0400" stop="20261119140000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119131300 -0400" stop="20261119133600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">LEGO DREAMZzz</title>
+    <desc lang="es">La fragua de ensueño - Season 1, Episode 4</desc>
+  </programme>
+  <programme start="20261119133500 -0400" stop="20261119135900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Tres espías sin límite</title>
     <desc lang="es">Misión olorosa - Season 7, Episode 16</desc>
   </programme>
-  <programme start="20261119140000 -0400" stop="20261119142400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119133600 -0400" stop="20261119140000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Tres espías sin límite</title>
+    <desc lang="es">¿Dulce o fantasma? - Season 7, Episode 17</desc>
+  </programme>
+  <programme start="20261119135900 -0400" stop="20261119142400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Lecciones de natación / Vacaciones en crucero / Vacaciones en el mar / Viaje tropical / Nav</desc>
+  </programme>
+  <programme start="20261119140000 -0400" stop="20261119142400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">Vamos de viaje / El restaurante / Visitemos el cañón / Hollywood / La motocicleta</desc>
   </programme>
   <programme start="20261119142400 -0400" stop="20261119144900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">La Abuela Oveja se muda</desc>
   </programme>
+  <programme start="20261119142400 -0400" stop="20261119144900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">Cajas de cartón</desc>
+  </programme>
   <programme start="20261119144900 -0400" stop="20261119145400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini Beat Power Rockers</title>
     <desc lang="es">Dolores vs. Baby Duende</desc>
+  </programme>
+  <programme start="20261119144900 -0400" stop="20261119145400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini Beat Power Rockers</title>
+    <desc lang="es">El sonido de las emociones - Season 4, Episode 57</desc>
   </programme>
   <programme start="20261119145400 -0400" stop="20261119145900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini Beat Power Rockers</title>
     <desc lang="es">Ultra Mini Beat Power Rockers - Season 3, Episode 27</desc>
   </programme>
-  <programme start="20261119145900 -0400" stop="20261119150400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119145400 -0400" stop="20261119145900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini Beat Power Rockers</title>
+    <desc lang="es">Sigan al lider - Season 3, Episode 29</desc>
+  </programme>
+  <programme start="20261119145900 -0400" stop="20261119150300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini Beat Power Rockers</title>
     <desc lang="es">La planta cancionívora - Season 3, Episode 28</desc>
   </programme>
-  <programme start="20261119150400 -0400" stop="20261119151600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119145900 -0400" stop="20261119150400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini Beat Power Rockers</title>
+    <desc lang="es">Ritmo de gol - Season 3, Episode 30</desc>
+  </programme>
+  <programme start="20261119150300 -0400" stop="20261119151600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Talking Tom Heroes: Los Superpoderosos</title>
     <desc lang="es">Happy Birthday to Kranium - Season 1, Episode 21</desc>
   </programme>
-  <programme start="20261119151600 -0400" stop="20261119153000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119150400 -0400" stop="20261119151600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Talking Tom Heroes: Los Superpoderosos</title>
+    <desc lang="es">There&amp;#039;s Something About Becca - Season 1, Episode 22</desc>
+  </programme>
+  <programme start="20261119151600 -0400" stop="20261119152900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mojo Swoptops</title>
     <desc lang="es">¡Recolector de cerezas! - Season 1, Episode 13</desc>
   </programme>
-  <programme start="20261119153000 -0400" stop="20261119154200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119151600 -0400" stop="20261119153000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mojo Swoptops</title>
+    <desc lang="es">Correo de Mojo</desc>
+  </programme>
+  <programme start="20261119152900 -0400" stop="20261119154000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Zuk la brujita</title>
     <desc lang="es">1,2,3 Merlín - Season 1, Episode 17</desc>
   </programme>
-  <programme start="20261119154200 -0400" stop="20261119160400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119153000 -0400" stop="20261119154200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Zuk la brujita</title>
+    <desc lang="es">El centauro Nono - Season 1, Episode 18</desc>
+  </programme>
+  <programme start="20261119154000 -0400" stop="20261119160200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Winx Club: Vuelve la magia</title>
     <desc lang="es">Winx contra Trix - Season 1, Episode 3</desc>
   </programme>
-  <programme start="20261119160400 -0400" stop="20261119161600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119154200 -0400" stop="20261119160400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Winx Club: La magia ha vuelto</title>
+    <desc lang="es">Un truco de las Trix - Season 1, Episode 4</desc>
+  </programme>
+  <programme start="20261119160200 -0400" stop="20261119161500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Topo Gigio</title>
     <desc lang="es">La invitación</desc>
   </programme>
-  <programme start="20261119161600 -0400" stop="20261119164100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119160400 -0400" stop="20261119161600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Topo Gigio</title>
+    <desc lang="es">El día de los abuelos</desc>
+  </programme>
+  <programme start="20261119161500 -0400" stop="20261119164000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Misterio resuelto / Año Nuevo chino / Muchos charcos de lodo / Mandy Ratona / La flauta dulc</desc>
   </programme>
-  <programme start="20261119164100 -0400" stop="20261119170400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119161600 -0400" stop="20261119164100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">Castillos relajantes / Multa de estacionamiento / Día del Padre / Música divertida / Pícnic</desc>
+  </programme>
+  <programme start="20261119164000 -0400" stop="20261119170300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Nubes</desc>
   </programme>
-  <programme start="20261119170400 -0400" stop="20261119172800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119164100 -0400" stop="20261119170400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">El Señor Toribio limpia el río</desc>
+  </programme>
+  <programme start="20261119170300 -0400" stop="20261119172800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Vamos a esquiar / Perfume / El arenero / La tetera del señor Toribio</desc>
+  </programme>
+  <programme start="20261119170400 -0400" stop="20261119172800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">La reina / La isla desierta / Perfume / La fiesta de los niños - Season 6, Episode 1</desc>
   </programme>
   <programme start="20261119172800 -0400" stop="20261119175300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Lecciones de natación / Vacaciones en crucero / Vacaciones en el mar / Viaje tropical / Nav</desc>
   </programme>
+  <programme start="20261119172800 -0400" stop="20261119175300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">Vamos de viaje / El restaurante / Visitemos el cañón / Hollywood / La motocicleta</desc>
+  </programme>
   <programme start="20261119175300 -0400" stop="20261119175800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini Beat Power Rockers</title>
     <desc lang="es">Dolores de Bergerac - Season 1, Episode 2</desc>
   </programme>
+  <programme start="20261119175300 -0400" stop="20261119175800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini Beat Power Rockers</title>
+    <desc lang="es">Un día animado - Season 4, Episode 18</desc>
+  </programme>
   <programme start="20261119175800 -0400" stop="20261119180300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini beat power rockers</title>
+    <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
+  </programme>
+  <programme start="20261119175800 -0400" stop="20261119180300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini Beat Power Rockers</title>
+    <desc lang="es">Batalla de bandas - Season 4, Episode 29</desc>
+  </programme>
+  <programme start="20261119180300 -0400" stop="20261119182800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini beat power rockers</title>
     <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
   </programme>
@@ -20496,55 +20839,123 @@
     <title lang="es">Mini beat power rockers</title>
     <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
   </programme>
-  <programme start="20261119182800 -0400" stop="20261119185200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119182800 -0400" stop="20261119185100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">LEGO DREAMZzz</title>
     <desc lang="es">Soñadores perseguidos - Season 1, Episode 3</desc>
   </programme>
-  <programme start="20261119185200 -0400" stop="20261119191400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119182800 -0400" stop="20261119185200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">LEGO DREAMZzz</title>
+    <desc lang="es">La fragua de ensueño - Season 1, Episode 4</desc>
+  </programme>
+  <programme start="20261119185100 -0400" stop="20261119191300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Shasha y Milo</title>
     <desc lang="es">El regreso de Frankencat - Season 1, Episode 23</desc>
   </programme>
-  <programme start="20261119191400 -0400" stop="20261119192700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119185200 -0400" stop="20261119191400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Shasha y Milo</title>
+    <desc lang="es">La verdad sale a la luz</desc>
+  </programme>
+  <programme start="20261119191300 -0400" stop="20261119192600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mojo Swoptops</title>
     <desc lang="es">Sé valiente, Bryan - Season 1, Episode 12</desc>
   </programme>
-  <programme start="20261119192700 -0400" stop="20261119193800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119191400 -0400" stop="20261119192700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mojo Swoptops</title>
+    <desc lang="es">¡Recolector de cerezas! - Season 1, Episode 13</desc>
+  </programme>
+  <programme start="20261119192600 -0400" stop="20261119193700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Zuk la brujita</title>
     <desc lang="es">Cabello indomable - Season 1, Episode 13</desc>
   </programme>
-  <programme start="20261119193800 -0400" stop="20261119200300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119192700 -0400" stop="20261119193800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Zuk la brujita</title>
+    <desc lang="es">La primera vida de Hueso - Season 1, Episode 14</desc>
+  </programme>
+  <programme start="20261119193700 -0400" stop="20261119200100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Academia Unicornio</title>
     <desc lang="es">Lluvias de estrellas - Season 2, Episode 3</desc>
   </programme>
-  <programme start="20261119200300 -0400" stop="20261119202600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119193800 -0400" stop="20261119200300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Academia Unicornio</title>
+    <desc lang="es">El sueño de Wildstar - Season 2, Episode 4</desc>
+  </programme>
+  <programme start="20261119200100 -0400" stop="20261119202500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Tres espías sin límite</title>
     <desc lang="es">Se renta guarida - Season 8, Episode 3</desc>
   </programme>
-  <programme start="20261119202600 -0400" stop="20261119205000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119200300 -0400" stop="20261119202600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Tres espías sin límite</title>
+    <desc lang="es">Fiebre de diva - Season 8, Episode 4</desc>
+  </programme>
+  <programme start="20261119202500 -0400" stop="20261119204900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Magia de sirenas</title>
     <desc lang="es">Secretos oscuros bajo la escuela</desc>
   </programme>
-  <programme start="20261119205000 -0400" stop="20261119210100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119202600 -0400" stop="20261119205000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Magia de sirenas</title>
+    <desc lang="es">Episodio 4 - Season 1, Episode 4</desc>
+  </programme>
+  <programme start="20261119204900 -0400" stop="20261119210000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Topo Gigio</title>
     <desc lang="es">¡No te vayas Bob! - Season 1, Episode 38</desc>
   </programme>
-  <programme start="20261119210100 -0400" stop="20261119212500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119205000 -0400" stop="20261119210100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Topo Gigio</title>
+    <desc lang="es">El hipo - Season 1, Episode 1</desc>
+  </programme>
+  <programme start="20261119210000 -0400" stop="20261119212500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">La casa de verano / Vacaciones en el sol / De regreso a casa / Espejos / Pedro llega tarde</desc>
   </programme>
-  <programme start="20261119212500 -0400" stop="20261119215000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119210100 -0400" stop="20261119212500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">Juegos en el Jardín; A Navegar; la Tetera del Señor Toribio; Fruta; el Globo de George</desc>
+  </programme>
+  <programme start="20261119212500 -0400" stop="20261119214900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Carrera de canicas / El detector de metales del Abuelo Cerdito / Día Mundial del Libro / Fe</desc>
   </programme>
-  <programme start="20261119215000 -0400" stop="20261119221300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119212500 -0400" stop="20261119215000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">Fresas / El cumpleaños del Abuelo Cerdito / Peppa y la granja / ¡Pizza, pizza! / El mundo de</desc>
+  </programme>
+  <programme start="20261119214900 -0400" stop="20261119221300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Magia de sirenas</title>
     <desc lang="es">A Test for Merlinda</desc>
   </programme>
-  <programme start="20261119221300 -0400" stop="20261119223700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119215000 -0400" stop="20261119215500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini beat power rockers</title>
+    <desc lang="es">El cumpleaños de Carlos - Season 1, Episode 43</desc>
+  </programme>
+  <programme start="20261119215500 -0400" stop="20261119220000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini Beat Power Rockers</title>
+    <desc lang="es">Hay que afinar a Dolores - Season 2, Episode 63</desc>
+  </programme>
+  <programme start="20261119220000 -0400" stop="20261119220500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini Beat Power Rockers</title>
+    <desc lang="es">Cumpleaños virtual - Season 3, Episode 51</desc>
+  </programme>
+  <programme start="20261119220500 -0400" stop="20261119221000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini beat power rockers</title>
+    <desc lang="es">El cumpleaños de jay - Season 2, Episode 49</desc>
+  </programme>
+  <programme start="20261119221000 -0400" stop="20261119221500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini Beat Power Rockers</title>
+    <desc lang="es">Porque es una gran niñera - Season 2, Episode 72</desc>
+  </programme>
+  <programme start="20261119221300 -0400" stop="20261119223600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Magia de sirenas</title>
     <desc lang="es">Episodio 10 - Season 1, Episode 10</desc>
   </programme>
-  <programme start="20261119223700 -0400" stop="20261119224100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119221500 -0400" stop="20261119222700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Polly Pocket</title>
+    <desc lang="es">La fiesta perfecta - Season 5, Episode 23</desc>
+  </programme>
+  <programme start="20261119222700 -0400" stop="20261119224100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Polly Pocket</title>
+    <desc lang="es">Castillos y unicornios dobles de la duquesa - Season 5, Episode 10</desc>
+  </programme>
+  <programme start="20261119223600 -0400" stop="20261119224100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Academia Unicornio</title>
     <desc lang="es">Diversión con potros: Parte 3</desc>
   </programme>
@@ -20552,417 +20963,65 @@
     <title lang="es">Peppa Pig</title>
     <desc lang="es">La tierra de las hadas - Season 11, Episode 30</desc>
   </programme>
+  <programme start="20261119224100 -0400" stop="20261119224600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">Piano Lesson - Season 11, Episode 32</desc>
+  </programme>
   <programme start="20261119224600 -0400" stop="20261119225100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Muddy Bob - Season 11, Episode 31</desc>
+  </programme>
+  <programme start="20261119224600 -0400" stop="20261119225100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">Superpícnic - Season 11, Episode 33</desc>
   </programme>
   <programme start="20261119225100 -0400" stop="20261119231300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Shasha y Milo: cortos</title>
     <desc lang="es">Un día en la vida de Bong Bong - Season 1, Episode 10</desc>
   </programme>
-  <programme start="20261119231300 -0400" stop="20261119232500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+  <programme start="20261119225100 -0400" stop="20261119231300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Shasha y Milo: cortos</title>
+    <desc lang="es">Gatástrofe en la cocina - Season 1, Episode 11</desc>
+  </programme>
+  <programme start="20261119231300 -0400" stop="20261119232600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Polly Pocket</title>
     <desc lang="es">Entrega pendiente - Season 5, Episode 18</desc>
   </programme>
+  <programme start="20261119231300 -0400" stop="20261119232500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Polly Pocket</title>
+    <desc lang="es">Máquina bailarina - Season 5, Episode 19</desc>
+  </programme>
   <programme start="20261119232500 -0400" stop="20261119233600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Topo Gigio</title>
+    <desc lang="es">Se busca colección</desc>
+  </programme>
+  <programme start="20261119232600 -0400" stop="20261119233700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Topo Gigio</title>
     <desc lang="es">El plan del abuelo</desc>
   </programme>
   <programme start="20261119233600 -0400" stop="20261119234900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Topo Gigio</title>
+    <desc lang="es">¿Qué le pasó a Abby Jane? - Season 1, Episode 20</desc>
+  </programme>
+  <programme start="20261119233700 -0400" stop="20261119235000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Topo Gigio</title>
     <desc lang="es">La pista de hockey - Season 1, Episode 19</desc>
   </programme>
   <programme start="20261119234900 -0400" stop="20261119235400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini Beat Power Rockers</title>
+    <desc lang="es">Dolores de Bergerac - Season 1, Episode 2</desc>
+  </programme>
+  <programme start="20261119235000 -0400" stop="20261119235500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini beat power rockers</title>
     <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
   </programme>
   <programme start="20261119235400 -0400" stop="20261120005400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
     <title lang="es">Mini Beat Power Rockers</title>
-    <desc lang="es">Dolores de Bergerac - Season 1, Episode 2</desc>
-  </programme>
-  <programme start="20261119235900 -0400" stop="20261120000400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Especial - Mini Beat Power Rockers</title>
-    <desc lang="es">Una canción para mamá</desc>
-  </programme>
-  <programme start="20261120000400 -0400" stop="20261120001500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Hello Kitty: Super Style!</title>
-    <desc lang="es">Un buen deporte - Season 1, Episode 3</desc>
-  </programme>
-  <programme start="20261120001500 -0400" stop="20261120002700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Hello Kitty: Super Style!</title>
-    <desc lang="es">Cazadores de tesoros - Season 1, Episode 4</desc>
-  </programme>
-  <programme start="20261120002700 -0400" stop="20261120005300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini beat power rockers</title>
-    <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
-  </programme>
-  <programme start="20261120005300 -0400" stop="20261120011700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini beat power rockers</title>
-    <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
-  </programme>
-  <programme start="20261120011700 -0400" stop="20261120012200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini Beat Power Rockers</title>
-    <desc lang="es">El desafío de Los Mini - Season 4, Episode 33</desc>
-  </programme>
-  <programme start="20261120012200 -0400" stop="20261120013400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Héroes y hermanos</title>
-    <desc lang="es">Hermano e hijo - Season 1, Episode 1</desc>
-  </programme>
-  <programme start="20261120013400 -0400" stop="20261120014700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Héroes y hermanos</title>
-    <desc lang="es">Lenny es un superhéroe - Season 1, Episode 20</desc>
-  </programme>
-  <programme start="20261120014700 -0400" stop="20261120015800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Héroes y hermanos</title>
-    <desc lang="es">Samomorfosis - Season 1, Episode 21</desc>
-  </programme>
-  <programme start="20261120015800 -0400" stop="20261120020900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Ba da Bean</title>
-    <desc lang="es">La cueva de los garabatos olvidados - Season 1, Episode 19</desc>
-  </programme>
-  <programme start="20261120020900 -0400" stop="20261120022000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Ba da Bean</title>
-    <desc lang="es">El collage - Season 1, Episode 20</desc>
-  </programme>
-  <programme start="20261120022000 -0400" stop="20261120023200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Ba da Bean</title>
-    <desc lang="es">Flash, el magnífico - Season 1, Episode 21</desc>
-  </programme>
-  <programme start="20261120023200 -0400" stop="20261120024600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Metegol Underdogs United</title>
-    <desc lang="es">Ventaja deportiva</desc>
-  </programme>
-  <programme start="20261120024600 -0400" stop="20261120025800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Metegol Underdogs United</title>
-    <desc lang="es">Campeona virtual</desc>
-  </programme>
-  <programme start="20261120025800 -0400" stop="20261120030900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Underdogs United</title>
-    <desc lang="es">Duelo de ajedrez - Season 1, Episode 32</desc>
-  </programme>
-  <programme start="20261120030900 -0400" stop="20261120033400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini beat power rockers</title>
-    <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
-  </programme>
-  <programme start="20261120033400 -0400" stop="20261120040000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini beat power rockers</title>
-    <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
-  </programme>
-  <programme start="20261120040000 -0400" stop="20261120042200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Agente Binky al rescate</title>
-    <desc lang="es">Una mosca en mi pelo / Llévame al robot</desc>
-  </programme>
-  <programme start="20261120042200 -0400" stop="20261120044500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Agente Binky al rescate</title>
-    <desc lang="es">Salvemos a Ted / Con alas</desc>
-  </programme>
-  <programme start="20261120044500 -0400" stop="20261120051100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Scooterspumpkin Competitionmove To Musiclondonsimp</desc>
-  </programme>
-  <programme start="20261120051100 -0400" stop="20261120053500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Flying a Kite - Season 1, Episode 14</desc>
-  </programme>
-  <programme start="20261120053500 -0400" stop="20261120060000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">El diario de Peppa / Juguemos golf / El safari de insectos / Aros / Un día en el parque</desc>
-  </programme>
-  <programme start="20261120060000 -0400" stop="20261120062500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini beat power rockers</title>
-    <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
-  </programme>
-  <programme start="20261120062500 -0400" stop="20261120063800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">El mundo de Luna</title>
-    <desc lang="es">Vamos a la escuela - Season 8, Episode 17</desc>
-  </programme>
-  <programme start="20261120063800 -0400" stop="20261120070000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Jorge, el curioso</title>
-    <desc lang="es">Jorge en el desierto / El juego de las texturas</desc>
-  </programme>
-  <programme start="20261120070000 -0400" stop="20261120071300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Bubble&amp;#039;s Hotel</title>
-    <desc lang="es">A volar - Season 1, Episode 13</desc>
-  </programme>
-  <programme start="20261120071300 -0400" stop="20261120072500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Super Wish</title>
-    <desc lang="es">Los túneles del sueño - Season 1, Episode 47</desc>
-  </programme>
-  <programme start="20261120072500 -0400" stop="20261120073900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Super Wish</title>
-    <desc lang="es">El castillo de espuma - Season 1, Episode 48</desc>
-  </programme>
-  <programme start="20261120073900 -0400" stop="20261120075000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Polly Pocket</title>
-    <desc lang="es">Estatuas intrigantes El fantasma de la poppera - Season 5, Episode 7</desc>
-  </programme>
-  <programme start="20261120075000 -0400" stop="20261120080100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Topo Gigio</title>
-    <desc lang="es">La medalla al valor - Season 2, Episode 16</desc>
-  </programme>
-  <programme start="20261120080100 -0400" stop="20261120082500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Academia Unicornio</title>
-    <desc lang="es">La multitud equivocada - Season 2, Episode 7</desc>
-  </programme>
-  <programme start="20261120082500 -0400" stop="20261120084800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Juegos de papel</desc>
-  </programme>
-  <programme start="20261120084800 -0400" stop="20261120091400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Paseo en barco / El invernadero del abuelo Pig / El barco del abuelo - Season 7, Episode 9</desc>
-  </programme>
-  <programme start="20261120091400 -0400" stop="20261120091900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Prueba de audición - Season 11, Episode 14</desc>
-  </programme>
-  <programme start="20261120091900 -0400" stop="20261120093100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Talking Tom Heroes: Los Superpoderosos</title>
-    <desc lang="es">Teeny Tiny Tom - Season 1, Episode 20</desc>
-  </programme>
-  <programme start="20261120093100 -0400" stop="20261120094400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Talking Tom Heroes: Los Superpoderosos</title>
-    <desc lang="es">Problemas en Ciudad Cumbre - Season 1, Episode 2</desc>
-  </programme>
-  <programme start="20261120094400 -0400" stop="20261120095500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Zuk la brujita</title>
-    <desc lang="es">Burbuja de los deseos - Season 1, Episode 26</desc>
-  </programme>
-  <programme start="20261120095500 -0400" stop="20261120101700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mermicorno: Lluvia de Estrellas</title>
-    <desc lang="es">¿Quién es la princesa Hanna?</desc>
-  </programme>
-  <programme start="20261120101700 -0400" stop="20261120103000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Hello Kitty: Super Style!</title>
-    <desc lang="es">Río, el atrevido - Season 1, Episode 47</desc>
-  </programme>
-  <programme start="20261120103000 -0400" stop="20261120104400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">El mundo de Luna</title>
-    <desc lang="es">Casas caminantes - Season 9, Episode 4</desc>
-  </programme>
-  <programme start="20261120104400 -0400" stop="20261120104900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini beat power rockers</title>
-    <desc lang="es">El cumpleaños de Carlos - Season 1, Episode 43</desc>
-  </programme>
-  <programme start="20261120104900 -0400" stop="20261120105400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini Beat Power Rockers</title>
-    <desc lang="es">Hay que afinar a Dolores - Season 2, Episode 63</desc>
-  </programme>
-  <programme start="20261120105400 -0400" stop="20261120105900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini Beat Power Rockers</title>
-    <desc lang="es">Cumpleaños virtual - Season 3, Episode 51</desc>
-  </programme>
-  <programme start="20261120105900 -0400" stop="20261120110400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini beat power rockers</title>
-    <desc lang="es">El cumpleaños de jay - Season 2, Episode 49</desc>
-  </programme>
-  <programme start="20261120110400 -0400" stop="20261120110900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini Beat Power Rockers</title>
-    <desc lang="es">Porque es una gran niñera - Season 2, Episode 72</desc>
-  </programme>
-  <programme start="20261120110900 -0400" stop="20261120112100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Polly Pocket</title>
-    <desc lang="es">La fiesta perfecta - Season 5, Episode 23</desc>
-  </programme>
-  <programme start="20261120112100 -0400" stop="20261120113500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Polly Pocket</title>
-    <desc lang="es">Castillos y unicornios dobles de la duquesa - Season 5, Episode 10</desc>
-  </programme>
-  <programme start="20261120113500 -0400" stop="20261120114000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Cuidando al abuelo cerdito - Season 11, Episode 17</desc>
-  </programme>
-  <programme start="20261120114000 -0400" stop="20261120120300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Nubes</desc>
-  </programme>
-  <programme start="20261120120300 -0400" stop="20261120122700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">El carro de carreras / El botecito / El arenero / Animales nocturnos / Vacaciones</desc>
-  </programme>
-  <programme start="20261120122700 -0400" stop="20261120125100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Jorge, el curioso</title>
-    <desc lang="es">Jorge en el desierto / El juego de las texturas</desc>
-  </programme>
-  <programme start="20261120125100 -0400" stop="20261120131300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Magia de sirenas</title>
-    <desc lang="es">Secretos oscuros bajo la escuela</desc>
-  </programme>
-  <programme start="20261120131300 -0400" stop="20261120133600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">LEGO DREAMZzz</title>
-    <desc lang="es">La fragua de ensueño - Season 1, Episode 4</desc>
-  </programme>
-  <programme start="20261120133600 -0400" stop="20261120140000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Tres espías sin límite</title>
-    <desc lang="es">¿Dulce o fantasma? - Season 7, Episode 17</desc>
-  </programme>
-  <programme start="20261120140000 -0400" stop="20261120142400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Vamos de viaje / El restaurante / Visitemos el cañón / Hollywood / La motocicleta</desc>
-  </programme>
-  <programme start="20261120142400 -0400" stop="20261120144900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Cajas de cartón</desc>
-  </programme>
-  <programme start="20261120144900 -0400" stop="20261120145400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini Beat Power Rockers</title>
-    <desc lang="es">El sonido de las emociones - Season 4, Episode 57</desc>
-  </programme>
-  <programme start="20261120145400 -0400" stop="20261120145900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini Beat Power Rockers</title>
-    <desc lang="es">Sigan al lider - Season 3, Episode 29</desc>
-  </programme>
-  <programme start="20261120145900 -0400" stop="20261120150400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini Beat Power Rockers</title>
-    <desc lang="es">Ritmo de gol - Season 3, Episode 30</desc>
-  </programme>
-  <programme start="20261120150400 -0400" stop="20261120151600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Talking Tom Heroes: Los Superpoderosos</title>
-    <desc lang="es">There&amp;#039;s Something About Becca - Season 1, Episode 22</desc>
-  </programme>
-  <programme start="20261120151600 -0400" stop="20261120153000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mojo Swoptops</title>
-    <desc lang="es">Correo de Mojo</desc>
-  </programme>
-  <programme start="20261120153000 -0400" stop="20261120154200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Zuk la brujita</title>
-    <desc lang="es">El centauro Nono - Season 1, Episode 18</desc>
-  </programme>
-  <programme start="20261120154200 -0400" stop="20261120160400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Winx Club: La magia ha vuelto</title>
-    <desc lang="es">Un truco de las Trix - Season 1, Episode 4</desc>
-  </programme>
-  <programme start="20261120160400 -0400" stop="20261120161600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Topo Gigio</title>
-    <desc lang="es">El día de los abuelos</desc>
-  </programme>
-  <programme start="20261120161600 -0400" stop="20261120164100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Castillos relajantes / Multa de estacionamiento / Día del Padre / Música divertida / Pícnic</desc>
-  </programme>
-  <programme start="20261120164100 -0400" stop="20261120170400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">El Señor Toribio limpia el río</desc>
-  </programme>
-  <programme start="20261120170400 -0400" stop="20261120172800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">La reina / La isla desierta / Perfume / La fiesta de los niños - Season 6, Episode 1</desc>
-  </programme>
-  <programme start="20261120172800 -0400" stop="20261120175300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Vamos de viaje / El restaurante / Visitemos el cañón / Hollywood / La motocicleta</desc>
-  </programme>
-  <programme start="20261120175300 -0400" stop="20261120175800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini Beat Power Rockers</title>
-    <desc lang="es">Un día animado - Season 4, Episode 18</desc>
-  </programme>
-  <programme start="20261120175800 -0400" stop="20261120180300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini Beat Power Rockers</title>
-    <desc lang="es">Batalla de bandas - Season 4, Episode 29</desc>
-  </programme>
-  <programme start="20261120180300 -0400" stop="20261120182800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini beat power rockers</title>
-    <desc lang="es">¡A rockear! - Season 1, Episode 1</desc>
-  </programme>
-  <programme start="20261120182800 -0400" stop="20261120185200 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">LEGO DREAMZzz</title>
-    <desc lang="es">La fragua de ensueño - Season 1, Episode 4</desc>
-  </programme>
-  <programme start="20261120185200 -0400" stop="20261120191400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Shasha y Milo</title>
-    <desc lang="es">La verdad sale a la luz</desc>
-  </programme>
-  <programme start="20261120191400 -0400" stop="20261120192700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mojo Swoptops</title>
-    <desc lang="es">¡Recolector de cerezas! - Season 1, Episode 13</desc>
-  </programme>
-  <programme start="20261120192700 -0400" stop="20261120193800 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Zuk la brujita</title>
-    <desc lang="es">La primera vida de Hueso - Season 1, Episode 14</desc>
-  </programme>
-  <programme start="20261120193800 -0400" stop="20261120200300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Academia Unicornio</title>
-    <desc lang="es">El sueño de Wildstar - Season 2, Episode 4</desc>
-  </programme>
-  <programme start="20261120200300 -0400" stop="20261120202600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Tres espías sin límite</title>
-    <desc lang="es">Fiebre de diva - Season 8, Episode 4</desc>
-  </programme>
-  <programme start="20261120202600 -0400" stop="20261120205000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Magia de sirenas</title>
-    <desc lang="es">Episodio 4 - Season 1, Episode 4</desc>
-  </programme>
-  <programme start="20261120205000 -0400" stop="20261120210100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Topo Gigio</title>
-    <desc lang="es">El hipo - Season 1, Episode 1</desc>
-  </programme>
-  <programme start="20261120210100 -0400" stop="20261120212500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Juegos en el Jardín; A Navegar; la Tetera del Señor Toribio; Fruta; el Globo de George</desc>
-  </programme>
-  <programme start="20261120212500 -0400" stop="20261120215000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Fresas / El cumpleaños del Abuelo Cerdito / Peppa y la granja / ¡Pizza, pizza! / El mundo de</desc>
-  </programme>
-  <programme start="20261120215000 -0400" stop="20261120215500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini beat power rockers</title>
-    <desc lang="es">El cumpleaños de Carlos - Season 1, Episode 43</desc>
-  </programme>
-  <programme start="20261120215500 -0400" stop="20261120220000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini Beat Power Rockers</title>
-    <desc lang="es">Hay que afinar a Dolores - Season 2, Episode 63</desc>
-  </programme>
-  <programme start="20261120220000 -0400" stop="20261120220500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini Beat Power Rockers</title>
-    <desc lang="es">Cumpleaños virtual - Season 3, Episode 51</desc>
-  </programme>
-  <programme start="20261120220500 -0400" stop="20261120221000 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini beat power rockers</title>
-    <desc lang="es">El cumpleaños de jay - Season 2, Episode 49</desc>
-  </programme>
-  <programme start="20261120221000 -0400" stop="20261120221500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini Beat Power Rockers</title>
-    <desc lang="es">Porque es una gran niñera - Season 2, Episode 72</desc>
-  </programme>
-  <programme start="20261120221500 -0400" stop="20261120222700 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Polly Pocket</title>
-    <desc lang="es">La fiesta perfecta - Season 5, Episode 23</desc>
-  </programme>
-  <programme start="20261120222700 -0400" stop="20261120224100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Polly Pocket</title>
-    <desc lang="es">Castillos y unicornios dobles de la duquesa - Season 5, Episode 10</desc>
-  </programme>
-  <programme start="20261120224100 -0400" stop="20261120224600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Piano Lesson - Season 11, Episode 32</desc>
-  </programme>
-  <programme start="20261120224600 -0400" stop="20261120225100 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Superpícnic - Season 11, Episode 33</desc>
-  </programme>
-  <programme start="20261120225100 -0400" stop="20261120231300 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Shasha y Milo: cortos</title>
-    <desc lang="es">Gatástrofe en la cocina - Season 1, Episode 11</desc>
-  </programme>
-  <programme start="20261120231300 -0400" stop="20261120232500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Polly Pocket</title>
-    <desc lang="es">Máquina bailarina - Season 5, Episode 19</desc>
-  </programme>
-  <programme start="20261120232500 -0400" stop="20261120233600 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Topo Gigio</title>
-    <desc lang="es">Se busca colección</desc>
-  </programme>
-  <programme start="20261120233600 -0400" stop="20261120234900 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Topo Gigio</title>
-    <desc lang="es">¿Qué le pasó a Abby Jane? - Season 1, Episode 20</desc>
-  </programme>
-  <programme start="20261120234900 -0400" stop="20261120235400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini Beat Power Rockers</title>
-    <desc lang="es">Dolores de Bergerac - Season 1, Episode 2</desc>
-  </programme>
-  <programme start="20261120235400 -0400" stop="20261121005400 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
-    <title lang="es">Mini Beat Power Rockers</title>
     <desc lang="es">Un sentimiento mariachi - Season 4, Episode 30</desc>
+  </programme>
+  <programme start="20261119235500 -0400" stop="20261120005500 -0400" channel="ontvtonight-69047730-discovery-kids-latin-america">
+    <title lang="es">Mini Beat Power Rockers</title>
+    <desc lang="es">Dolores de Bergerac - Season 1, Episode 2</desc>
   </programme>
   <programme start="20261117000000 -0400" stop="20261117003000 -0400" channel="ontvtonight-69047105-the-disney-channel-east">
     <title lang="es">Bluey</title>
@@ -26181,184 +26240,244 @@
     <desc lang="es">109 Al 113</desc>
   </programme>
   <programme start="20261117230000 -0400" stop="20261118000000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La loba</title>
+    <title lang="es">La Mujer de Judas</title>
+    <desc lang="es">31 al 35</desc>
   </programme>
   <programme start="20261118000000 -0400" stop="20261118010000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La otra cara del alma</title>
+    <title lang="es">Quererte así</title>
+    <desc lang="es">51 al 55</desc>
   </programme>
   <programme start="20261118010000 -0400" stop="20261118020000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">UEPA</title>
+    <desc lang="es">136 al 140</desc>
   </programme>
   <programme start="20261118020000 -0400" stop="20261118030000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Rutas de la vida</title>
+    <desc lang="es">21 al 25</desc>
   </programme>
   <programme start="20261118030000 -0400" stop="20261118050000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Cosas de la Vida</title>
+    <desc lang="es">26 al 30</desc>
   </programme>
   <programme start="20261118050000 -0400" stop="20261118060000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La loba</title>
+    <title lang="es">La Mujer de Judas</title>
+    <desc lang="es">31 al 35</desc>
   </programme>
   <programme start="20261118060000 -0400" stop="20261118070000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La otra cara del alma</title>
+    <title lang="es">Quererte así</title>
+    <desc lang="es">50 al 54</desc>
   </programme>
   <programme start="20261118070000 -0400" stop="20261118080000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">UEPA</title>
+    <desc lang="es">135 al 139</desc>
   </programme>
   <programme start="20261118080000 -0400" stop="20261118090000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Rutas de la vida</title>
+    <desc lang="es">20 al 24</desc>
   </programme>
   <programme start="20261118090000 -0400" stop="20261118110000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Cosas de la Vida</title>
+    <desc lang="es">25 al 29</desc>
   </programme>
   <programme start="20261118110000 -0400" stop="20261118120000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La loba</title>
+    <title lang="es">La Mujer de Judas</title>
+    <desc lang="es">30 al 34</desc>
   </programme>
   <programme start="20261118120000 -0400" stop="20261118130000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La otra cara del alma</title>
+    <title lang="es">Quererte así</title>
+    <desc lang="es">50 al 54</desc>
   </programme>
   <programme start="20261118130000 -0400" stop="20261118140000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">UEPA</title>
+    <desc lang="es">135 al 139</desc>
   </programme>
   <programme start="20261118140000 -0400" stop="20261118150000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Rutas de la vida</title>
+    <desc lang="es">20 al 24</desc>
   </programme>
   <programme start="20261118150000 -0400" stop="20261118170000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Cosas de la Vida</title>
+    <desc lang="es">26 al 30</desc>
   </programme>
   <programme start="20261118170000 -0400" stop="20261118180000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La loba</title>
+    <title lang="es">La Mujer de Judas</title>
+    <desc lang="es">31 al 35</desc>
   </programme>
   <programme start="20261118180000 -0400" stop="20261118190000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La otra cara del alma</title>
+    <title lang="es">Quererte así</title>
+    <desc lang="es">51 al 55</desc>
   </programme>
   <programme start="20261118190000 -0400" stop="20261118200000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">UEPA</title>
+    <desc lang="es">136 al 140</desc>
   </programme>
   <programme start="20261118200000 -0400" stop="20261118210000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Rutas de la vida</title>
+    <desc lang="es">21 al 25</desc>
   </programme>
   <programme start="20261118210000 -0400" stop="20261118220000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Cosas de la Vida</title>
+    <desc lang="es">26 al 30</desc>
   </programme>
   <programme start="20261118230000 -0400" stop="20261119000000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La loba</title>
+    <title lang="es">La Mujer de Judas</title>
+    <desc lang="es">31 al 35</desc>
   </programme>
   <programme start="20261119000000 -0400" stop="20261119010000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La otra cara del alma</title>
+    <title lang="es">Quererte así</title>
+    <desc lang="es">51 al 55</desc>
   </programme>
   <programme start="20261119010000 -0400" stop="20261119020000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">UEPA</title>
+    <desc lang="es">136 al 140</desc>
   </programme>
   <programme start="20261119020000 -0400" stop="20261119030000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Rutas de la vida</title>
+    <desc lang="es">21 al 25</desc>
   </programme>
   <programme start="20261119030000 -0400" stop="20261119050000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Cosas de la Vida</title>
+    <desc lang="es">26 al 30</desc>
   </programme>
   <programme start="20261119050000 -0400" stop="20261119060000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La loba</title>
+    <title lang="es">La Mujer de Judas</title>
+    <desc lang="es">31 al 35</desc>
   </programme>
   <programme start="20261119060000 -0400" stop="20261119070000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La otra cara del alma</title>
+    <title lang="es">Quererte así</title>
+    <desc lang="es">50 al 54</desc>
   </programme>
   <programme start="20261119070000 -0400" stop="20261119080000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">UEPA</title>
+    <desc lang="es">135 al 139</desc>
   </programme>
   <programme start="20261119080000 -0400" stop="20261119090000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Rutas de la vida</title>
+    <desc lang="es">20 al 24</desc>
   </programme>
   <programme start="20261119090000 -0400" stop="20261119110000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Cosas de la Vida</title>
+    <desc lang="es">25 al 29</desc>
   </programme>
   <programme start="20261119110000 -0400" stop="20261119120000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La loba</title>
+    <title lang="es">La Mujer de Judas</title>
+    <desc lang="es">30 al 34</desc>
   </programme>
   <programme start="20261119120000 -0400" stop="20261119130000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La otra cara del alma</title>
+    <title lang="es">Quererte así</title>
+    <desc lang="es">50 al 54</desc>
   </programme>
   <programme start="20261119130000 -0400" stop="20261119140000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">UEPA</title>
+    <desc lang="es">135 al 139</desc>
   </programme>
   <programme start="20261119140000 -0400" stop="20261119150000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Rutas de la vida</title>
+    <desc lang="es">20 al 24</desc>
   </programme>
   <programme start="20261119150000 -0400" stop="20261119170000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Cosas de la Vida</title>
+    <desc lang="es">26 al 30</desc>
   </programme>
   <programme start="20261119170000 -0400" stop="20261119180000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La loba</title>
+    <title lang="es">La Mujer de Judas</title>
+    <desc lang="es">31 al 35</desc>
   </programme>
   <programme start="20261119180000 -0400" stop="20261119190000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La otra cara del alma</title>
+    <title lang="es">Quererte así</title>
+    <desc lang="es">51 al 55</desc>
   </programme>
   <programme start="20261119190000 -0400" stop="20261119200000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">UEPA</title>
+    <desc lang="es">136 al 140</desc>
   </programme>
   <programme start="20261119200000 -0400" stop="20261119210000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Rutas de la vida</title>
+    <desc lang="es">21 al 25</desc>
   </programme>
   <programme start="20261119210000 -0400" stop="20261119220000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Cosas de la Vida</title>
+    <desc lang="es">26 al 30</desc>
   </programme>
   <programme start="20261119230000 -0400" stop="20261120000000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La loba</title>
+    <title lang="es">La Mujer de Judas</title>
+    <desc lang="es">31 al 35</desc>
   </programme>
   <programme start="20261120000000 -0400" stop="20261120010000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Quererte así</title>
+    <desc lang="es">51 al 55</desc>
   </programme>
   <programme start="20261120010000 -0400" stop="20261120020000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">UEPA</title>
+    <desc lang="es">136 al 140</desc>
   </programme>
   <programme start="20261120020000 -0400" stop="20261120030000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Rutas de la vida</title>
+    <desc lang="es">21 al 25</desc>
   </programme>
   <programme start="20261120030000 -0400" stop="20261120050000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Cosas de la Vida</title>
+    <desc lang="es">26 al 30</desc>
   </programme>
   <programme start="20261120050000 -0400" stop="20261120060000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La loba</title>
+    <title lang="es">La Mujer de Judas</title>
+    <desc lang="es">31 al 35</desc>
   </programme>
   <programme start="20261120060000 -0400" stop="20261120070000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Quererte así</title>
+    <desc lang="es">50 al 54</desc>
   </programme>
   <programme start="20261120070000 -0400" stop="20261120080000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">UEPA</title>
+    <desc lang="es">135 al 139</desc>
   </programme>
   <programme start="20261120080000 -0400" stop="20261120090000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Rutas de la vida</title>
+    <desc lang="es">20 al 24</desc>
   </programme>
   <programme start="20261120090000 -0400" stop="20261120110000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Cosas de la Vida</title>
+    <desc lang="es">25 al 29</desc>
   </programme>
   <programme start="20261120110000 -0400" stop="20261120120000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La loba</title>
+    <title lang="es">La Mujer de Judas</title>
+    <desc lang="es">30 al 34</desc>
   </programme>
   <programme start="20261120120000 -0400" stop="20261120130000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Quererte así</title>
+    <desc lang="es">50 al 54</desc>
   </programme>
   <programme start="20261120130000 -0400" stop="20261120140000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">UEPA</title>
+    <desc lang="es">135 al 139</desc>
   </programme>
   <programme start="20261120140000 -0400" stop="20261120150000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Rutas de la vida</title>
+    <desc lang="es">20 al 24</desc>
   </programme>
   <programme start="20261120150000 -0400" stop="20261120170000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Cosas de la Vida</title>
+    <desc lang="es">26 al 30</desc>
   </programme>
   <programme start="20261120170000 -0400" stop="20261120180000 -0400" channel="ontvtonight-69034688-corazon">
-    <title lang="es">La loba</title>
+    <title lang="es">La Mujer de Judas</title>
+    <desc lang="es">31 al 35</desc>
   </programme>
   <programme start="20261120180000 -0400" stop="20261120190000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Quererte así</title>
+    <desc lang="es">51 al 55</desc>
   </programme>
   <programme start="20261120190000 -0400" stop="20261120200000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">UEPA</title>
+    <desc lang="es">136 al 140</desc>
   </programme>
   <programme start="20261120200000 -0400" stop="20261120210000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Rutas de la vida</title>
+    <desc lang="es">21 al 25</desc>
   </programme>
   <programme start="20261120210000 -0400" stop="20261120220000 -0400" channel="ontvtonight-69034688-corazon">
     <title lang="es">Cosas de la Vida</title>
+    <desc lang="es">26 al 30</desc>
   </programme>
   <programme start="20261117060000 -0400" stop="20261117070000 -0400" channel="ontvtonight-1632454207-latele-novela-network">
     <title lang="es">Latele Novela Network</title>
@@ -26923,7 +27042,7 @@
   </programme>
   <programme start="20261117050000 -0400" stop="20261117060000 -0400" channel="ontvtonight-69046887-universo-east">
     <title lang="es">12 Corazones</title>
-    <desc lang="es">Especial De Adan Y Eva - Season 2021, Episode 139</desc>
+    <desc lang="es">Especial de Adán y Eva - Season 2020, Episode 40</desc>
   </programme>
   <programme start="20261117060000 -0400" stop="20261117070000 -0400" channel="ontvtonight-69046887-universo-east">
     <title lang="es">12 Corazones</title>
@@ -27071,6 +27190,7 @@
   </programme>
   <programme start="20261118190000 -0400" stop="20261118200000 -0400" channel="ontvtonight-69046887-universo-east">
     <title lang="es">Acércate a Rocío</title>
+    <desc lang="es">Mi hermana paga por colágeno</desc>
   </programme>
   <programme start="20261118200000 -0400" stop="20261118210000 -0400" channel="ontvtonight-69046887-universo-east">
     <title lang="es">Caso cerrado</title>
@@ -27082,6 +27202,7 @@
   </programme>
   <programme start="20261118220000 -0400" stop="20261118230000 -0400" channel="ontvtonight-69046887-universo-east">
     <title lang="es">Acércate a Rocío</title>
+    <desc lang="es">Soy hija de la amante</desc>
   </programme>
   <programme start="20261118230000 -0400" stop="20261119000000 -0400" channel="ontvtonight-69046887-universo-east">
     <title lang="es">Lo que callamos las mujeres</title>
@@ -27113,7 +27234,7 @@
   </programme>
   <programme start="20261119060000 -0400" stop="20261119070000 -0400" channel="ontvtonight-69046887-universo-east">
     <title lang="es">12 Corazones</title>
-    <desc lang="es">Especial de la escuelita - Season 2024, Episode 41</desc>
+    <desc lang="es">Especial de escuelita 2 - Season 2017, Episode 86</desc>
   </programme>
   <programme start="20261119070000 -0400" stop="20261119080000 -0400" channel="ontvtonight-69046887-universo-east">
     <title lang="es">Escape perfecto</title>
@@ -27161,9 +27282,11 @@
   </programme>
   <programme start="20261119180000 -0400" stop="20261119190000 -0400" channel="ontvtonight-69046887-universo-east">
     <title lang="es">Acércate a Rocío</title>
+    <desc lang="es">Soy hija de la amante</desc>
   </programme>
   <programme start="20261119190000 -0400" stop="20261119200000 -0400" channel="ontvtonight-69046887-universo-east">
     <title lang="es">Acércate a Rocío</title>
+    <desc lang="es">Pague por él y otra lo aprovechó</desc>
   </programme>
   <programme start="20261119200000 -0400" stop="20261119210000 -0400" channel="ontvtonight-69046887-universo-east">
     <title lang="es">Caso cerrado</title>
@@ -27197,7 +27320,7 @@
   </programme>
   <programme start="20261117050000 -0400" stop="20261117060000 -0400" channel="ontvtonight-69038546-wkaq-punto-2">
     <title lang="es">La mesa caliente</title>
-    <desc lang="es">11-16-2026 - Season 2026, Episode 199</desc>
+    <desc lang="es">El secreto detrás de Judas - Season 2026, Episode 199</desc>
   </programme>
   <programme start="20261117060000 -0400" stop="20261117070000 -0400" channel="ontvtonight-69038546-wkaq-punto-2">
     <title lang="es">Comienza el día con la pastora Wanda Rolon</title>
@@ -27495,11 +27618,8 @@
   <programme start="20261120000000 -0400" stop="20261120010000 -0400" channel="ontvtonight-69038546-wkaq-punto-2">
     <title lang="es">Malverde: El Santo Patrón</title>
   </programme>
-  <programme start="20261117214500 -0400" stop="20261118003000 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
+  <programme start="20261117214500 -0400" stop="20261118010000 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
     <title lang="es">Masterchef Celebrity</title>
-  </programme>
-  <programme start="20261118003000 -0400" stop="20261118010000 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
-    <title lang="es">TVE Internacional</title>
   </programme>
   <programme start="20261118010000 -0400" stop="20261118015000 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
     <title lang="es">De Tapas Por España</title>
@@ -27529,7 +27649,7 @@
   </programme>
   <programme start="20261118094300 -0400" stop="20261118095000 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
     <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Castel Gandolfo / Pozuelo de Alarcón</desc>
+    <desc lang="es">Castel Gandolfo</desc>
   </programme>
   <programme start="20261118095000 -0400" stop="20261118115000 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
     <title lang="es">Directo al grano</title>
@@ -27538,9 +27658,17 @@
     <title lang="es">Senderos con Juan y Migas</title>
     <desc lang="es">La Lupa De Geli</desc>
   </programme>
-  <programme start="20261118125000 -0400" stop="20261118134000 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
+  <programme start="20261118125000 -0400" stop="20261118133500 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
     <title lang="es">Saber y ganar</title>
     <desc lang="es">Saber y ganar</desc>
+  </programme>
+  <programme start="20261118133500 -0400" stop="20261118133700 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
+    <title lang="es">Esto Es España</title>
+    <desc lang="es">Ciudad de Teruel</desc>
+  </programme>
+  <programme start="20261118133700 -0400" stop="20261118134000 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
+    <title lang="es">Esto Es España</title>
+    <desc lang="es">Escuela Superior de Canto</desc>
   </programme>
   <programme start="20261118134000 -0400" stop="20261118142500 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
     <title lang="es">Malas Lenguas</title>
@@ -27552,7 +27680,7 @@
     <title lang="es">Telediario 2</title>
   </programme>
   <programme start="20261118155000 -0400" stop="20261118155500 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
-    <title lang="es">Teledeporte 1</title>
+    <title lang="es">Teledeporte 2</title>
   </programme>
   <programme start="20261118155500 -0400" stop="20261118162500 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
     <title lang="es">Cifras y letras</title>
@@ -27560,10 +27688,10 @@
   <programme start="20261118162500 -0400" stop="20261118165500 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
     <title lang="es">Cifras y letras</title>
   </programme>
-  <programme start="20261118165500 -0400" stop="20261118174000 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
+  <programme start="20261118165500 -0400" stop="20261118174500 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
     <title lang="es">Valle Salvaje</title>
   </programme>
-  <programme start="20261118174000 -0400" stop="20261118184000 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
+  <programme start="20261118174500 -0400" stop="20261118184000 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
     <title lang="es">La Promesa</title>
   </programme>
   <programme start="20261118184000 -0400" stop="20261118193000 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
@@ -27574,21 +27702,23 @@
     <title lang="es">Aquí la tierra</title>
   </programme>
   <programme start="20261118200000 -0400" stop="20261118203000 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
-    <title lang="es">Noticias 24 Horas Telediario Internacional</title>
+    <title lang="es">TD Internacional 24 Horas</title>
   </programme>
   <programme start="20261118203000 -0400" stop="20261118214500 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
     <title lang="es">La Revuelta</title>
+    <desc lang="es">Episode 357</desc>
   </programme>
-  <programme start="20261118214500 -0400" stop="20261118231000 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
-    <title lang="es">La Cena de los Idiotas</title>
+  <programme start="20261118214500 -0400" stop="20261118230000 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
+    <title lang="es">La Cena De Los Idiotas</title>
+    <desc lang="es">El valor del dinero - Season 1, Episode 2</desc>
   </programme>
-  <programme start="20261118231000 -0400" stop="20261119001000 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
+  <programme start="20261118230000 -0400" stop="20261119000000 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
     <title lang="es">Al cielo con ella</title>
-    <desc lang="es">Al Cielo: Dani Guzmán, Nuria Marín Y Muchas Más</desc>
+    <desc lang="es">Episode 7</desc>
   </programme>
-  <programme start="20261118231000 -0400" stop="20261119002500 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
+  <programme start="20261118230000 -0400" stop="20261119002500 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
     <title lang="es">Al cielo con ella</title>
-    <desc lang="es">Al Cielo: Dani Guzmán, Nuria Marín Y Muchas Más</desc>
+    <desc lang="es">Episode 7</desc>
   </programme>
   <programme start="20261119000000 -0400" stop="20261119011500 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
     <title lang="es">La Cena de los Idiotas</title>
@@ -27756,9 +27886,11 @@
   </programme>
   <programme start="20261119203000 -0400" stop="20261119214500 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
     <title lang="es">La Revuelta</title>
+    <desc lang="es">Episode 358</desc>
   </programme>
   <programme start="20261119203000 -0400" stop="20261119214500 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
     <title lang="es">La Revuelta</title>
+    <desc lang="es">Episode 359</desc>
   </programme>
   <programme start="20261119214500 -0400" stop="20261119225500 -0400" channel="ontvtonight-69047760-tve-internacional-north-south-america">
     <title lang="es">El perro andaluz</title>
@@ -27859,10 +27991,10 @@
   <programme start="20261119221000 -0400" stop="20261119234500 -0400" channel="ontvtonight-1473777738-a3cine">
     <title lang="es">ISI &amp;amp; DISI: Amor a lo bestia</title>
   </programme>
-  <programme start="20261119234500 -0400" stop="20261120010500 -0400" channel="ontvtonight-1473777738-a3cine">
+  <programme start="20261119234500 -0400" stop="20261120004500 -0400" channel="ontvtonight-1473777738-a3cine">
     <title lang="es">La princesa de Éboli</title>
   </programme>
-  <programme start="20261119234500 -0400" stop="20261120004500 -0400" channel="ontvtonight-1473777738-a3cine">
+  <programme start="20261119234500 -0400" stop="20261120010500 -0400" channel="ontvtonight-1473777738-a3cine">
     <title lang="es">La princesa de Éboli</title>
   </programme>
   <programme start="20261120010500 -0400" stop="20261120025000 -0400" channel="ontvtonight-1473777738-a3cine">
@@ -28630,11 +28762,11 @@
     <title lang="es">Dark Winds</title>
     <desc lang="es">Episodio 4 - Season 3, Episode 4</desc>
   </programme>
-  <programme start="20261118235500 -0400" stop="20261119004500 -0400" channel="ontvtonight-69047726-amc-series">
+  <programme start="20261118235500 -0400" stop="20261119005500 -0400" channel="ontvtonight-69047726-amc-series">
     <title lang="es">Rectify</title>
     <desc lang="es">Charlie Darwin - Season 2, Episode 3</desc>
   </programme>
-  <programme start="20261118235500 -0400" stop="20261119005500 -0400" channel="ontvtonight-69047726-amc-series">
+  <programme start="20261118235500 -0400" stop="20261119004500 -0400" channel="ontvtonight-69047726-amc-series">
     <title lang="es">Rectify</title>
     <desc lang="es">Charlie Darwin - Season 2, Episode 3</desc>
   </programme>
@@ -29289,23 +29421,5 @@
   </programme>
   <programme start="20261119233000 -0400" stop="20261120003000 -0400" channel="ontvtonight-69030396-babyfirst-tv">
     <title lang="es">Baby First After Hours</title>
-  </programme>
-  <programme start="20261117000000 -0400" stop="20261117010000 -0400" channel="ontvtonight-69026062-view-bill">
-    <title lang="es">View Bill</title>
-  </programme>
-  <programme start="20261118000000 -0400" stop="20261118010000 -0400" channel="ontvtonight-69026062-view-bill">
-    <title lang="es">View Bill</title>
-  </programme>
-  <programme start="20261119000000 -0400" stop="20261119010000 -0400" channel="ontvtonight-69026062-view-bill">
-    <title lang="es">View Bill</title>
-  </programme>
-  <programme start="20261117000000 -0400" stop="20261117010000 -0400" channel="ontvtonight-69024341-pass-time-games">
-    <title lang="es">Pass Time Games</title>
-  </programme>
-  <programme start="20261118000000 -0400" stop="20261118010000 -0400" channel="ontvtonight-69024341-pass-time-games">
-    <title lang="es">Pass Time Games</title>
-  </programme>
-  <programme start="20261119000000 -0400" stop="20261119010000 -0400" channel="ontvtonight-69024341-pass-time-games">
-    <title lang="es">Pass Time Games</title>
   </programme>
 </tv>
